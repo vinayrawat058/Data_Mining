@@ -1,0 +1,973 @@
+Store_City,Product_ID,Elasticity
+Aguascalientes,1,-0.08280472720732517
+Aguascalientes,2,-0.17193488627651318
+Aguascalientes,3,-0.13976294860766017
+Aguascalientes,4,-0.001
+Aguascalientes,5,-0.001
+Aguascalientes,6,-0.7594651607863145
+Aguascalientes,7,-0.7263975693732485
+Aguascalientes,8,-0.6935973300894591
+Aguascalientes,9,-0.3371397994410951
+Aguascalientes,10,-0.596260938427436
+Aguascalientes,11,-0.001
+Aguascalientes,12,-0.001
+Aguascalientes,13,-0.001
+Aguascalientes,14,-2.7496789961265438
+Aguascalientes,15,-0.001
+Aguascalientes,16,-0.001
+Aguascalientes,17,-2.8854790628781863
+Aguascalientes,18,-0.9871842903584579
+Aguascalientes,19,-0.99887073941874
+Aguascalientes,20,-0.001
+Aguascalientes,21,-0.37055977375291826
+Aguascalientes,22,-0.001
+Aguascalientes,23,-0.34103837718938956
+Aguascalientes,24,-0.001
+Aguascalientes,25,-0.001
+Aguascalientes,26,-0.001
+Aguascalientes,27,-0.001
+Aguascalientes,28,-0.8318794141381283
+Aguascalientes,29,-0.001
+Aguascalientes,30,-0.9112503415245625
+Aguascalientes,31,-2.0334108424765933
+Aguascalientes,32,-13.862351034876003
+Aguascalientes,33,-2.527609785018498
+Aguascalientes,34,-3.6932804180011933
+Aguascalientes,35,-0.001
+Campeche,1,-0.001
+Campeche,2,-0.10638877171760719
+Campeche,3,-0.9722774484973112
+Campeche,4,-0.001
+Campeche,5,-0.001
+Campeche,6,-1.1754427139058576
+Campeche,7,-1.595691096454341
+Campeche,8,-0.33771649760310685
+Campeche,9,-0.18206689420800146
+Campeche,10,-0.5622549551140579
+Campeche,11,-1.2441277413941025
+Campeche,12,-0.001
+Campeche,13,-0.001
+Campeche,14,-1.0645541342119476
+Campeche,15,-0.001
+Campeche,16,-0.6145167186981934
+Campeche,17,-0.001
+Campeche,18,-0.4371404395015116
+Campeche,19,-0.001
+Campeche,20,-0.09433074453917398
+Campeche,21,-0.8859812086937764
+Campeche,22,-7.738038797608178
+Campeche,23,-0.8649069210962452
+Campeche,24,-0.001
+Campeche,25,-0.815282802250266
+Campeche,26,-0.7157904058309317
+Campeche,27,-0.47772156268440863
+Campeche,28,-6.632284242528556
+Campeche,29,-0.001
+Campeche,30,-0.4449856540195218
+Campeche,31,-1.2475886851012556
+Campeche,32,-0.01732562735656079
+Campeche,33,-0.001
+Campeche,34,-1.0567642071046475
+Campeche,35,-2.9001867715599903
+Chetumal,1,-0.001
+Chetumal,2,-1.2664036600608477
+Chetumal,3,-0.001
+Chetumal,4,-0.001
+Chetumal,5,-1.4215133437798824
+Chetumal,6,-0.16706377613250462
+Chetumal,7,-0.001
+Chetumal,8,-0.19645834411892338
+Chetumal,9,-0.5513740754997973
+Chetumal,10,-0.001
+Chetumal,11,-0.001
+Chetumal,12,-0.001
+Chetumal,13,-0.001
+Chetumal,14,-0.001
+Chetumal,15,-0.4676220699540906
+Chetumal,16,-0.001
+Chetumal,17,-0.001
+Chetumal,18,-0.5635692625835882
+Chetumal,19,-1.3719585407610468
+Chetumal,20,-0.001
+Chetumal,21,-0.1816163738204904
+Chetumal,22,-0.001
+Chetumal,23,-0.001
+Chetumal,24,-1.1118843808679542
+Chetumal,25,-0.2190525163292832
+Chetumal,26,-0.001
+Chetumal,27,-0.34088187477617204
+Chetumal,28,-0.001
+Chetumal,29,-0.001
+Chetumal,30,-0.39086270168009546
+Chetumal,31,-2.638815406254028
+Chetumal,32,-0.001
+Chetumal,33,-0.001
+Chetumal,34,-2.0306312192398335
+Chetumal,35,-0.001
+Chihuahua,1,-0.001
+Chihuahua,2,-0.001
+Chihuahua,3,-0.5392902600466898
+Chihuahua,4,-0.001
+Chihuahua,5,-0.001
+Chihuahua,6,-0.07463256764233028
+Chihuahua,7,-0.001
+Chihuahua,8,-0.1582252829964539
+Chihuahua,9,-0.11116918423360346
+Chihuahua,10,-0.001
+Chihuahua,11,-0.001
+Chihuahua,12,-1.5514247611260217
+Chihuahua,13,-0.001
+Chihuahua,14,-0.3699968846793288
+Chihuahua,15,-1.228698909542448
+Chihuahua,16,-1.1607485483688027
+Chihuahua,17,-0.001
+Chihuahua,18,-0.9993005061839436
+Chihuahua,19,-0.001
+Chihuahua,20,-0.001
+Chihuahua,21,-1.1105639456088028
+Chihuahua,22,-0.3276226550719462
+Chihuahua,23,-1.9293519220003872
+Chihuahua,24,-0.001
+Chihuahua,25,-0.001
+Chihuahua,26,-0.001
+Chihuahua,27,-0.11250716643992618
+Chihuahua,28,-7.072219891377543
+Chihuahua,29,-0.001
+Chihuahua,30,-0.001
+Chihuahua,31,-0.5535165887202936
+Chihuahua,32,-0.001
+Chihuahua,33,-0.001
+Chihuahua,34,-0.001
+Chihuahua,35,-0.001
+Chilpancingo,1,-0.001
+Chilpancingo,2,-0.001
+Chilpancingo,3,-0.001
+Chilpancingo,6,-0.2180838516113658
+Chilpancingo,7,-1.3273927915852348
+Chilpancingo,8,-0.5380241428245438
+Chilpancingo,9,-0.30178628485495557
+Chilpancingo,10,-0.001
+Chilpancingo,11,-0.001
+Chilpancingo,12,-0.001
+Chilpancingo,13,-0.001
+Chilpancingo,14,-1.9365491214490198
+Chilpancingo,15,-0.12844929003181793
+Chilpancingo,16,-1.5979520067322381
+Chilpancingo,17,-0.001
+Chilpancingo,18,-1.5789816602706472
+Chilpancingo,19,-0.001
+Chilpancingo,21,-0.3399788650663105
+Chilpancingo,23,-0.001
+Chilpancingo,24,-0.9810820409032599
+Chilpancingo,25,-0.001
+Chilpancingo,26,-0.001
+Chilpancingo,27,-0.001
+Chilpancingo,28,-0.001
+Chilpancingo,29,-0.001
+Chilpancingo,30,-1.9956064483088471
+Chilpancingo,31,-0.001
+Chilpancingo,32,-0.001
+Chilpancingo,33,-0.001
+Chilpancingo,34,-0.2992945339410188
+Ciudad Victoria,1,-0.001
+Ciudad Victoria,2,-0.001
+Ciudad Victoria,3,-0.6507594330989865
+Ciudad Victoria,6,-1.469023009473866
+Ciudad Victoria,7,-0.6528506080959762
+Ciudad Victoria,8,-0.02905966070022531
+Ciudad Victoria,9,-0.001
+Ciudad Victoria,10,-1.9356037330688576
+Ciudad Victoria,11,-0.001
+Ciudad Victoria,12,-0.001
+Ciudad Victoria,13,-1.623484856554325
+Ciudad Victoria,14,-0.001
+Ciudad Victoria,15,-0.24018060342156594
+Ciudad Victoria,16,-0.001
+Ciudad Victoria,17,-0.31316079511443023
+Ciudad Victoria,18,-0.001
+Ciudad Victoria,19,-1.6004642831934164
+Ciudad Victoria,21,-0.001
+Ciudad Victoria,23,-2.564627710875631
+Ciudad Victoria,24,-0.001
+Ciudad Victoria,25,-0.001
+Ciudad Victoria,26,-0.001
+Ciudad Victoria,27,-0.6172705781526677
+Ciudad Victoria,28,-0.001
+Ciudad Victoria,29,-0.001
+Ciudad Victoria,30,-0.06791268254659837
+Ciudad Victoria,31,-0.001
+Ciudad Victoria,32,-0.001
+Ciudad Victoria,33,-0.001
+Ciudad Victoria,34,-0.001
+Cuernavaca,1,-0.06899669854762146
+Cuernavaca,2,-0.679121480772495
+Cuernavaca,3,-1.1786074692359558
+Cuernavaca,5,-0.001
+Cuernavaca,6,-1.13327314826794
+Cuernavaca,7,-1.3339883945652662
+Cuernavaca,8,-0.329607125866494
+Cuernavaca,9,-0.001
+Cuernavaca,10,-2.731438541950512
+Cuernavaca,11,-0.001
+Cuernavaca,12,-0.001
+Cuernavaca,13,-0.001
+Cuernavaca,14,-0.001
+Cuernavaca,15,-1.2080778066826081
+Cuernavaca,16,-0.7221163231488332
+Cuernavaca,17,-0.4672347538769046
+Cuernavaca,18,-0.723412600129558
+Cuernavaca,19,-0.001
+Cuernavaca,20,-0.001
+Cuernavaca,21,-0.001
+Cuernavaca,23,-0.001
+Cuernavaca,24,-0.001
+Cuernavaca,25,-0.9697686419480602
+Cuernavaca,26,-0.001
+Cuernavaca,27,-0.001
+Cuernavaca,28,-0.001
+Cuernavaca,29,-0.912354533424054
+Cuernavaca,30,-0.001
+Cuernavaca,31,-2.7393122061793767
+Cuernavaca,32,-0.001
+Cuernavaca,33,-0.001
+Cuernavaca,34,-2.4444476526739325
+Cuernavaca,35,-0.001
+Cuidad de Mexico,1,-0.001
+Cuidad de Mexico,2,-0.0408361393580538
+Cuidad de Mexico,3,-0.1927307493364372
+Cuidad de Mexico,4,-0.6981654146614906
+Cuidad de Mexico,5,-0.7965247506027366
+Cuidad de Mexico,6,-1.6121946923392083
+Cuidad de Mexico,7,-0.07302882351989082
+Cuidad de Mexico,8,-0.4132935679024812
+Cuidad de Mexico,9,-0.012125344396811233
+Cuidad de Mexico,10,-0.36582087755174947
+Cuidad de Mexico,11,-0.001
+Cuidad de Mexico,12,-0.001
+Cuidad de Mexico,13,-0.6312100800820547
+Cuidad de Mexico,14,-0.26385421863457537
+Cuidad de Mexico,15,-0.001
+Cuidad de Mexico,16,-0.6251673120709571
+Cuidad de Mexico,17,-0.001
+Cuidad de Mexico,18,-0.1879868652277814
+Cuidad de Mexico,19,-0.001
+Cuidad de Mexico,20,-0.001
+Cuidad de Mexico,21,-0.04830397033484768
+Cuidad de Mexico,22,-0.001
+Cuidad de Mexico,23,-0.08290269081365162
+Cuidad de Mexico,24,-0.001
+Cuidad de Mexico,25,-0.001
+Cuidad de Mexico,26,-0.001
+Cuidad de Mexico,27,-0.30057266733294824
+Cuidad de Mexico,28,-0.001
+Cuidad de Mexico,29,-0.001
+Cuidad de Mexico,30,-0.004963251556636017
+Cuidad de Mexico,31,-0.40632005206260813
+Cuidad de Mexico,32,-0.001
+Cuidad de Mexico,33,-0.001
+Cuidad de Mexico,34,-0.001
+Cuidad de Mexico,35,-0.001
+Culiacan,1,-0.001
+Culiacan,2,-0.001
+Culiacan,3,-0.001
+Culiacan,4,-0.001
+Culiacan,5,-0.001
+Culiacan,6,-0.001
+Culiacan,7,-0.001
+Culiacan,8,-0.001
+Culiacan,9,-0.001
+Culiacan,10,-0.17002828125921857
+Culiacan,11,-0.001
+Culiacan,12,-0.001
+Culiacan,13,-0.001
+Culiacan,14,-0.001
+Culiacan,15,-0.001
+Culiacan,16,-0.001
+Culiacan,17,-0.001
+Culiacan,18,-1.3676344758706918
+Culiacan,19,-0.001
+Culiacan,20,-0.001
+Culiacan,21,-0.001
+Culiacan,22,-0.001
+Culiacan,23,-1.4768538640990214
+Culiacan,24,-0.001
+Culiacan,25,-0.001
+Culiacan,26,-0.001
+Culiacan,27,-0.001
+Culiacan,28,-4.066296103714244
+Culiacan,29,-0.001
+Culiacan,30,-0.05926002105461441
+Culiacan,31,-1.7781217223408434
+Culiacan,32,-1.0478914167377469
+Culiacan,33,-0.001
+Culiacan,34,-0.001
+Culiacan,35,-0.001
+Durango,1,-0.001
+Durango,2,-0.001
+Durango,3,-0.001
+Durango,6,-0.4567265223362057
+Durango,7,-0.001
+Durango,8,-1.8351815577306405
+Durango,9,-0.001
+Durango,10,-0.001
+Durango,11,-0.001
+Durango,12,-0.001
+Durango,13,-0.9365722537754602
+Durango,14,-1.3474056369374134
+Durango,15,-0.24482477832337712
+Durango,16,-0.001
+Durango,17,-0.001
+Durango,18,-0.001
+Durango,19,-0.001
+Durango,21,-0.001
+Durango,23,-2.157147215264539
+Durango,24,-0.001
+Durango,25,-0.004269746316377235
+Durango,26,-0.001
+Durango,27,-0.20229168139576348
+Durango,28,-0.001
+Durango,29,-0.001
+Durango,30,-0.001
+Durango,31,-0.9517438065859574
+Durango,32,-0.7661030016378417
+Durango,33,-2.9498614105840852
+Durango,34,-0.001
+Guadalajara,1,-0.001
+Guadalajara,2,-0.001
+Guadalajara,3,-0.001
+Guadalajara,4,-0.001
+Guadalajara,5,-0.001
+Guadalajara,6,-0.958030670075536
+Guadalajara,7,-0.001
+Guadalajara,8,-0.0892366010610866
+Guadalajara,9,-0.001
+Guadalajara,10,-0.001
+Guadalajara,11,-2.1361898847798595
+Guadalajara,12,-0.001
+Guadalajara,13,-1.441222414514166
+Guadalajara,14,-0.001
+Guadalajara,15,-0.001
+Guadalajara,16,-0.12377823995523995
+Guadalajara,17,-0.7127904442573332
+Guadalajara,18,-0.001
+Guadalajara,19,-0.19641832040036522
+Guadalajara,20,-0.001
+Guadalajara,21,-0.8571877181940633
+Guadalajara,22,-0.001
+Guadalajara,23,-2.8530684996478666
+Guadalajara,24,-0.001
+Guadalajara,25,-0.001
+Guadalajara,26,-0.001
+Guadalajara,27,-0.31592526897707973
+Guadalajara,28,-0.001
+Guadalajara,29,-0.001
+Guadalajara,30,-0.5678251018611538
+Guadalajara,31,-0.001
+Guadalajara,32,-0.001
+Guadalajara,33,-0.001
+Guadalajara,34,-0.8717857927671965
+Guadalajara,35,-0.001
+Guanajuato,1,-0.001
+Guanajuato,2,-0.001
+Guanajuato,3,-0.3836883935303981
+Guanajuato,4,-0.001
+Guanajuato,5,-0.001
+Guanajuato,6,-0.001
+Guanajuato,7,-0.035745246568040664
+Guanajuato,8,-0.5810160739372342
+Guanajuato,9,-0.001
+Guanajuato,10,-0.001
+Guanajuato,11,-0.001
+Guanajuato,12,-0.001
+Guanajuato,13,-0.4358510202307936
+Guanajuato,14,-0.001
+Guanajuato,15,-0.001
+Guanajuato,16,-0.001
+Guanajuato,17,-0.001
+Guanajuato,18,-0.001
+Guanajuato,19,-0.001
+Guanajuato,20,-0.001
+Guanajuato,21,-0.25411238401634556
+Guanajuato,22,-0.001
+Guanajuato,23,-0.001
+Guanajuato,24,-0.001
+Guanajuato,25,-0.001
+Guanajuato,26,-0.001
+Guanajuato,27,-0.729048288567826
+Guanajuato,28,-0.001
+Guanajuato,29,-2.7769986769547708
+Guanajuato,30,-0.001
+Guanajuato,31,-0.5139559160402233
+Guanajuato,32,-0.6897386811175841
+Guanajuato,33,-0.001
+Guanajuato,34,-0.04400208180436548
+Guanajuato,35,-0.001
+Hermosillo,1,-0.570668290583726
+Hermosillo,2,-0.001
+Hermosillo,3,-0.11496594173982677
+Hermosillo,4,-0.001
+Hermosillo,5,-1.7679844362468162
+Hermosillo,6,-1.2462211981271194
+Hermosillo,7,-0.001
+Hermosillo,8,-0.5282566205699885
+Hermosillo,9,-0.001
+Hermosillo,10,-0.001
+Hermosillo,11,-0.08757008474754008
+Hermosillo,12,-3.153223501753941
+Hermosillo,13,-0.6509267865085167
+Hermosillo,14,-0.001
+Hermosillo,15,-0.001
+Hermosillo,16,-1.6095198894713327
+Hermosillo,17,-0.001
+Hermosillo,18,-2.154970886866412
+Hermosillo,19,-0.37510964729604124
+Hermosillo,20,-1.2978362808933892
+Hermosillo,21,-0.2361898988447272
+Hermosillo,22,-0.001
+Hermosillo,23,-0.001
+Hermosillo,24,-0.1355781788296167
+Hermosillo,25,-0.001
+Hermosillo,26,-0.001
+Hermosillo,27,-0.6332218744166851
+Hermosillo,28,-0.001
+Hermosillo,29,-0.001
+Hermosillo,30,-0.6691291814182179
+Hermosillo,31,-0.48495419441494236
+Hermosillo,32,-0.6905028456634041
+Hermosillo,33,-1.2754888813372949
+Hermosillo,34,-0.001
+Hermosillo,35,-0.001
+La Paz,1,-0.26274738059214164
+La Paz,2,-0.001
+La Paz,3,-0.18866942524431726
+La Paz,5,-0.001
+La Paz,6,-0.028887175198591963
+La Paz,7,-0.001
+La Paz,8,-0.2940744271272061
+La Paz,9,-0.001
+La Paz,10,-0.001
+La Paz,11,-0.001
+La Paz,12,-0.001
+La Paz,13,-0.32709536873165507
+La Paz,14,-0.3979784411550097
+La Paz,15,-0.001
+La Paz,16,-0.001
+La Paz,17,-0.001
+La Paz,18,-0.001
+La Paz,19,-2.121270957881248
+La Paz,20,-0.001
+La Paz,21,-0.001
+La Paz,23,-0.001
+La Paz,24,-0.001
+La Paz,25,-0.001
+La Paz,26,-0.5357351473302969
+La Paz,27,-0.001
+La Paz,28,-0.001
+La Paz,29,-0.001
+La Paz,30,-2.2443143042693565
+La Paz,31,-0.001
+La Paz,32,-0.001
+La Paz,33,-0.001
+La Paz,34,-0.001
+Merida,1,-0.38483659005636284
+Merida,2,-2.095584578490468
+Merida,3,-0.5753196400602432
+Merida,4,-0.001
+Merida,5,-0.001
+Merida,6,-0.2377547506683338
+Merida,7,-0.001
+Merida,8,-0.5895171159946677
+Merida,9,-0.716032402732872
+Merida,10,-0.001
+Merida,11,-0.001
+Merida,12,-0.001
+Merida,13,-0.001
+Merida,14,-0.3109975390491345
+Merida,15,-0.001
+Merida,16,-1.091332486124767
+Merida,17,-0.001
+Merida,18,-0.5880663275534681
+Merida,19,-0.001
+Merida,20,-0.001
+Merida,21,-0.001
+Merida,22,-0.21464615959059713
+Merida,23,-0.001
+Merida,24,-0.001
+Merida,25,-0.15072236632031258
+Merida,26,-0.001
+Merida,27,-0.02002516915021941
+Merida,28,-0.001
+Merida,29,-0.001
+Merida,30,-0.001
+Merida,31,-0.001
+Merida,32,-0.001
+Merida,33,-0.001
+Merida,34,-0.001
+Merida,35,-0.001
+Mexicali,1,-0.001
+Mexicali,2,-0.561706296547046
+Mexicali,3,-0.001
+Mexicali,4,-2.8487896949610283
+Mexicali,5,-5.440453049817704
+Mexicali,6,-1.6040801936602156
+Mexicali,7,-0.015098663933969636
+Mexicali,8,-0.001
+Mexicali,9,-0.4768457072654013
+Mexicali,10,-0.001
+Mexicali,11,-0.001
+Mexicali,12,-0.001
+Mexicali,13,-0.001
+Mexicali,14,-2.1685361205852285
+Mexicali,15,-0.001
+Mexicali,16,-0.001
+Mexicali,17,-0.007103522675202936
+Mexicali,18,-1.5480722308363157
+Mexicali,19,-0.8288751908997529
+Mexicali,20,-0.001
+Mexicali,21,-0.001
+Mexicali,22,-0.001
+Mexicali,23,-0.001
+Mexicali,24,-0.001
+Mexicali,25,-0.001
+Mexicali,26,-0.001
+Mexicali,27,-0.1599086179662178
+Mexicali,28,-0.001
+Mexicali,29,-0.001
+Mexicali,30,-0.001
+Mexicali,31,-0.9261335809424464
+Mexicali,32,-0.27878816549481755
+Mexicali,33,-0.001
+Mexicali,34,-0.023914642195840878
+Mexicali,35,-0.001
+Monterrey,1,-0.001
+Monterrey,2,-0.9530399811986052
+Monterrey,3,-0.4305231876208171
+Monterrey,4,-0.17703702552170952
+Monterrey,5,-0.001
+Monterrey,6,-0.964947451683478
+Monterrey,7,-1.2943303178194068
+Monterrey,8,-0.001
+Monterrey,9,-0.001
+Monterrey,10,-0.5538338710176594
+Monterrey,11,-0.001
+Monterrey,12,-1.6730785890983708
+Monterrey,13,-0.001
+Monterrey,14,-0.001
+Monterrey,15,-0.001
+Monterrey,16,-0.30946019052156937
+Monterrey,17,-0.5491937565298414
+Monterrey,18,-0.7494535972493278
+Monterrey,19,-0.001
+Monterrey,20,-0.001
+Monterrey,21,-0.009756615023457656
+Monterrey,22,-0.001
+Monterrey,23,-0.1640138952008654
+Monterrey,24,-0.001
+Monterrey,25,-0.001
+Monterrey,26,-0.1046257469945644
+Monterrey,27,-0.22964807807995724
+Monterrey,28,-0.001
+Monterrey,29,-0.001
+Monterrey,30,-0.001
+Monterrey,31,-0.48867334369754745
+Monterrey,32,-0.7185482606212276
+Monterrey,33,-0.5968394613784465
+Monterrey,34,-0.001
+Monterrey,35,-0.7694487448795478
+Morelia,1,-0.001
+Morelia,2,-0.001
+Morelia,3,-0.001
+Morelia,4,-0.001
+Morelia,5,-0.001
+Morelia,6,-0.32041247902763514
+Morelia,7,-0.001
+Morelia,8,-0.001
+Morelia,9,-1.0707507999981478
+Morelia,10,-0.6166559945576768
+Morelia,11,-0.001
+Morelia,12,-0.001
+Morelia,13,-1.9314142468791546
+Morelia,14,-0.001
+Morelia,15,-0.001
+Morelia,16,-0.001
+Morelia,17,-0.9113583609098764
+Morelia,18,-2.3056776932864733
+Morelia,19,-0.001
+Morelia,20,-0.001
+Morelia,21,-0.001
+Morelia,22,-0.001
+Morelia,23,-0.001
+Morelia,24,-0.001
+Morelia,25,-0.4595086340856177
+Morelia,26,-0.001
+Morelia,27,-0.001
+Morelia,28,-0.001
+Morelia,29,-0.001
+Morelia,30,-0.7822858870413816
+Morelia,31,-1.1290491109410898
+Morelia,32,-0.001
+Morelia,33,-0.001
+Morelia,34,-0.001
+Morelia,35,-0.001
+Oaxaca,1,-0.001
+Oaxaca,2,-0.706407890859076
+Oaxaca,3,-1.7881566274791267
+Oaxaca,6,-0.5668024218467367
+Oaxaca,7,-0.7818649275053058
+Oaxaca,8,-0.001
+Oaxaca,9,-0.001
+Oaxaca,10,-0.001
+Oaxaca,11,-0.001
+Oaxaca,12,-1.3460885184219542
+Oaxaca,13,-0.001
+Oaxaca,14,-0.001
+Oaxaca,15,-2.214996102954588
+Oaxaca,16,-0.7461167469368012
+Oaxaca,17,-0.001
+Oaxaca,18,-1.7613310036709748
+Oaxaca,19,-0.001
+Oaxaca,21,-0.001
+Oaxaca,23,-0.001
+Oaxaca,24,-0.24474384449769113
+Oaxaca,25,-0.001
+Oaxaca,27,-0.001
+Oaxaca,28,-0.001
+Oaxaca,29,-0.001
+Oaxaca,30,-0.001
+Oaxaca,31,-0.6271886646614083
+Oaxaca,32,-0.001
+Oaxaca,33,-0.001
+Oaxaca,34,-0.6989980087332142
+Pachuca,1,-0.001
+Pachuca,2,-0.001
+Pachuca,3,-0.001
+Pachuca,4,-0.001
+Pachuca,5,-0.001
+Pachuca,6,-0.5852026134872432
+Pachuca,7,-0.001
+Pachuca,8,-0.15330954562486274
+Pachuca,9,-0.001
+Pachuca,10,-0.001
+Pachuca,11,-0.001
+Pachuca,12,-0.001
+Pachuca,13,-1.9844026229590095
+Pachuca,14,-0.10657204857991004
+Pachuca,15,-0.001
+Pachuca,16,-1.0675209557592902
+Pachuca,17,-1.5953973555999408
+Pachuca,18,-2.5958138189736566
+Pachuca,19,-0.6323666456040575
+Pachuca,20,-0.001
+Pachuca,21,-0.16832835857099612
+Pachuca,22,-0.001
+Pachuca,23,-0.001
+Pachuca,24,-0.21504386450893903
+Pachuca,25,-0.2922385270143699
+Pachuca,26,-0.001
+Pachuca,27,-0.001
+Pachuca,28,-0.001
+Pachuca,29,-0.001
+Pachuca,30,-0.5525579951586442
+Pachuca,31,-0.8944868185565772
+Pachuca,32,-0.001
+Pachuca,33,-0.31294966013415015
+Pachuca,34,-0.001
+Pachuca,35,-0.001
+Puebla,1,-0.4806431854389989
+Puebla,2,-0.001
+Puebla,3,-1.3153325311989974
+Puebla,4,-0.001
+Puebla,5,-0.001
+Puebla,6,-0.34828592893615806
+Puebla,7,-0.20039710774798003
+Puebla,8,-0.001
+Puebla,9,-0.26850144631575174
+Puebla,10,-0.2766660393689633
+Puebla,11,-0.001
+Puebla,12,-0.001
+Puebla,13,-2.269326348096582
+Puebla,14,-0.001
+Puebla,15,-0.001
+Puebla,16,-1.334552163230815
+Puebla,17,-0.06446860255863109
+Puebla,18,-0.6402413405912635
+Puebla,19,-0.001
+Puebla,20,-6.7979927344300926
+Puebla,21,-0.001
+Puebla,22,-0.001
+Puebla,23,-0.15150561163066176
+Puebla,24,-0.001
+Puebla,25,-0.001
+Puebla,26,-0.060614015546304634
+Puebla,27,-0.34535147532965976
+Puebla,28,-2.4126476076429726
+Puebla,29,-0.001
+Puebla,30,-0.22231444868250833
+Puebla,31,-0.296658385551473
+Puebla,32,-0.001
+Puebla,33,-0.001
+Puebla,34,-0.001
+Puebla,35,-0.05452777382688641
+Saltillo,1,-0.001
+Saltillo,2,-1.0160189101053723
+Saltillo,3,-0.001
+Saltillo,4,-0.14262197956864092
+Saltillo,5,-0.001
+Saltillo,6,-0.001
+Saltillo,7,-0.5269413280116164
+Saltillo,8,-0.2622087150904597
+Saltillo,9,-0.001
+Saltillo,10,-0.001
+Saltillo,11,-0.001
+Saltillo,12,-0.001
+Saltillo,13,-1.5057807323332715
+Saltillo,14,-0.34130647626161303
+Saltillo,15,-0.16922671017616636
+Saltillo,16,-0.4657730077669391
+Saltillo,17,-0.2808193302545017
+Saltillo,18,-0.001
+Saltillo,19,-1.21598083948478
+Saltillo,20,-0.6388025465068512
+Saltillo,21,-0.7749618489071459
+Saltillo,22,-0.001
+Saltillo,23,-0.35171981525022106
+Saltillo,24,-0.001
+Saltillo,25,-0.40655968534441644
+Saltillo,26,-0.41490974227865246
+Saltillo,27,-0.17459038444352776
+Saltillo,28,-0.001
+Saltillo,29,-0.001
+Saltillo,30,-0.6257044207366242
+Saltillo,31,-0.001
+Saltillo,32,-0.001
+Saltillo,33,-0.001
+Saltillo,34,-0.001
+Saltillo,35,-0.001
+San Luis Potosi,1,-0.3907691137947673
+San Luis Potosi,2,-0.5559606462361131
+San Luis Potosi,3,-0.36779079661023417
+San Luis Potosi,4,-0.001
+San Luis Potosi,5,-0.23992010638820874
+San Luis Potosi,6,-2.2846901419105707
+San Luis Potosi,7,-0.28432968179284707
+San Luis Potosi,8,-0.4842653630662985
+San Luis Potosi,9,-0.001
+San Luis Potosi,10,-0.001
+San Luis Potosi,11,-2.682419377493705
+San Luis Potosi,12,-0.001
+San Luis Potosi,13,-0.001
+San Luis Potosi,14,-3.1026549942596313
+San Luis Potosi,15,-0.001
+San Luis Potosi,16,-0.001
+San Luis Potosi,17,-0.001
+San Luis Potosi,18,-1.1478874847334124
+San Luis Potosi,19,-0.9121294737215405
+San Luis Potosi,20,-0.001
+San Luis Potosi,21,-0.0034321432409856255
+San Luis Potosi,22,-0.7398809595040098
+San Luis Potosi,23,-0.001
+San Luis Potosi,24,-0.001
+San Luis Potosi,25,-0.001
+San Luis Potosi,26,-0.001
+San Luis Potosi,27,-0.001
+San Luis Potosi,28,-0.001
+San Luis Potosi,29,-0.001
+San Luis Potosi,30,-0.001
+San Luis Potosi,31,-2.15363789698614
+San Luis Potosi,32,-0.001
+San Luis Potosi,33,-0.001
+San Luis Potosi,34,-1.2299674390569986
+San Luis Potosi,35,-0.001
+Santiago,1,-0.46787614442011116
+Santiago,2,-0.001
+Santiago,3,-0.0064894065255904285
+Santiago,6,-0.873981548916557
+Santiago,7,-1.5533812755991718
+Santiago,8,-0.14757417513714566
+Santiago,9,-0.001
+Santiago,10,-0.001
+Santiago,11,-0.001
+Santiago,12,-0.001
+Santiago,13,-0.7651177139693608
+Santiago,14,-3.5759090656790513
+Santiago,15,-0.001
+Santiago,16,-0.6410675467992933
+Santiago,17,-0.6979999603293101
+Santiago,18,-0.001
+Santiago,19,-0.32752804177093886
+Santiago,21,-0.001
+Santiago,23,-0.001
+Santiago,24,-0.001
+Santiago,25,-0.001
+Santiago,26,-0.001
+Santiago,27,-0.29763606037189744
+Santiago,28,-0.001
+Santiago,29,-0.001
+Santiago,30,-1.7529973849392413
+Santiago,31,-0.001
+Santiago,32,-3.4314939501683335
+Santiago,33,-0.001
+Santiago,34,-0.001
+Toluca,1,-0.001
+Toluca,2,-0.001
+Toluca,3,-1.108348459113086
+Toluca,4,-0.001
+Toluca,5,-0.001
+Toluca,6,-0.001
+Toluca,7,-0.15514852551226588
+Toluca,8,-0.1219584328436939
+Toluca,9,-0.001
+Toluca,10,-0.152355394467299
+Toluca,11,-0.9501840685986804
+Toluca,12,-0.001
+Toluca,13,-0.9628509067123205
+Toluca,14,-0.08043506569130918
+Toluca,15,-0.001
+Toluca,16,-0.26429127405919217
+Toluca,17,-0.001
+Toluca,18,-0.001
+Toluca,19,-0.001
+Toluca,20,-0.001
+Toluca,21,-0.49056476287628603
+Toluca,22,-0.001
+Toluca,23,-0.001
+Toluca,24,-1.0428146892577939
+Toluca,25,-0.001
+Toluca,26,-0.001
+Toluca,27,-0.3931505242459442
+Toluca,28,-0.001
+Toluca,29,-0.001
+Toluca,30,-0.2600258569766871
+Toluca,31,-0.20443722797314767
+Toluca,32,-1.0938596551882238
+Toluca,33,-0.001
+Toluca,34,-1.1967558213469471
+Toluca,35,-0.001
+Tuxtla Gutierrez,1,-0.001
+Tuxtla Gutierrez,2,-0.001
+Tuxtla Gutierrez,3,-1.1614134918022039
+Tuxtla Gutierrez,5,-0.001
+Tuxtla Gutierrez,6,-1.3795046305899068
+Tuxtla Gutierrez,7,-0.1599539960066388
+Tuxtla Gutierrez,8,-1.5967105010765341
+Tuxtla Gutierrez,9,-0.001
+Tuxtla Gutierrez,10,-0.22835384300231726
+Tuxtla Gutierrez,11,-0.001
+Tuxtla Gutierrez,12,-0.001
+Tuxtla Gutierrez,13,-2.420250686408055
+Tuxtla Gutierrez,14,-4.443894604435902
+Tuxtla Gutierrez,15,-0.001
+Tuxtla Gutierrez,16,-0.001
+Tuxtla Gutierrez,17,-0.001
+Tuxtla Gutierrez,18,-0.001
+Tuxtla Gutierrez,19,-0.06149638193860464
+Tuxtla Gutierrez,20,-0.001
+Tuxtla Gutierrez,21,-0.021183154767319818
+Tuxtla Gutierrez,23,-0.001
+Tuxtla Gutierrez,24,-0.001
+Tuxtla Gutierrez,25,-0.001
+Tuxtla Gutierrez,26,-0.001
+Tuxtla Gutierrez,27,-0.4316723987980844
+Tuxtla Gutierrez,28,-0.001
+Tuxtla Gutierrez,29,-0.033241242687357675
+Tuxtla Gutierrez,30,-3.5770706843981106
+Tuxtla Gutierrez,31,-1.166984091292802
+Tuxtla Gutierrez,32,-0.001
+Tuxtla Gutierrez,33,-0.001
+Tuxtla Gutierrez,34,-0.001
+Tuxtla Gutierrez,35,-0.001
+Villahermosa,1,-0.001
+Villahermosa,2,-0.001
+Villahermosa,3,-1.225024571520005
+Villahermosa,4,-0.001
+Villahermosa,5,-0.001
+Villahermosa,6,-1.0268439142359487
+Villahermosa,7,-0.001
+Villahermosa,8,-0.27385614498580657
+Villahermosa,9,-0.001
+Villahermosa,10,-0.001
+Villahermosa,11,-0.001
+Villahermosa,12,-0.256015165251296
+Villahermosa,13,-1.1248240247459527
+Villahermosa,14,-0.7277089478467653
+Villahermosa,15,-0.001
+Villahermosa,16,-0.001
+Villahermosa,17,-3.141414465282583
+Villahermosa,18,-0.001
+Villahermosa,19,-0.001
+Villahermosa,20,-0.001
+Villahermosa,21,-0.001
+Villahermosa,22,-0.001
+Villahermosa,23,-0.001
+Villahermosa,24,-0.001
+Villahermosa,25,-0.001
+Villahermosa,26,-0.001
+Villahermosa,27,-1.2078850380770423
+Villahermosa,28,-0.001
+Villahermosa,29,-0.001
+Villahermosa,30,-1.7061689199672747
+Villahermosa,31,-0.1256056383124259
+Villahermosa,32,-0.001
+Villahermosa,33,-0.001
+Villahermosa,34,-0.001
+Villahermosa,35,-0.001
+Xalapa,1,-0.0034114071295329902
+Xalapa,2,-0.4823735379307377
+Xalapa,3,-0.29568370254916687
+Xalapa,6,-0.29745985943235637
+Xalapa,7,-0.001
+Xalapa,8,-0.7872982108898876
+Xalapa,9,-0.001
+Xalapa,10,-2.144630882048944
+Xalapa,11,-0.01273232474076178
+Xalapa,12,-0.001
+Xalapa,13,-0.35773858646966183
+Xalapa,14,-0.001
+Xalapa,15,-0.001
+Xalapa,16,-0.7665173210812299
+Xalapa,17,-0.001
+Xalapa,18,-0.34831948654419986
+Xalapa,19,-1.5838440766363537
+Xalapa,21,-1.4014685744121957
+Xalapa,23,-0.001
+Xalapa,24,-0.001
+Xalapa,25,-0.001
+Xalapa,26,-0.001
+Xalapa,27,-0.001
+Xalapa,28,-9.352123596844535
+Xalapa,29,-0.37565344691121727
+Xalapa,30,-0.001
+Xalapa,31,-0.001
+Xalapa,32,-0.293839251621552
+Xalapa,33,-3.2352493658049264
+Xalapa,34,-1.014027848591391
+Zacatecas,1,-0.7439331304810581
+Zacatecas,2,-0.001
+Zacatecas,3,-1.2503984282285932
+Zacatecas,6,-0.001
+Zacatecas,7,-0.4188409250851644
+Zacatecas,8,-0.7533917442808007
+Zacatecas,9,-1.9103294987148334
+Zacatecas,10,-2.776128108662153
+Zacatecas,11,-0.23596314860338757
+Zacatecas,12,-0.001
+Zacatecas,13,-0.010954750009788957
+Zacatecas,14,-0.001
+Zacatecas,15,-0.008565674034503229
+Zacatecas,16,-0.001
+Zacatecas,17,-0.49722920431326084
+Zacatecas,18,-0.001
+Zacatecas,19,-0.001
+Zacatecas,21,-0.557982264116339
+Zacatecas,23,-0.001
+Zacatecas,24,-0.010258064431614493
+Zacatecas,25,-0.001
+Zacatecas,26,-0.001
+Zacatecas,27,-0.001
+Zacatecas,28,-0.001
+Zacatecas,29,-0.001
+Zacatecas,30,-0.0038063447060229377
+Zacatecas,31,-0.33612156025913653
+Zacatecas,32,-0.058444382462534736
+Zacatecas,33,-0.001
+Zacatecas,34,-0.001

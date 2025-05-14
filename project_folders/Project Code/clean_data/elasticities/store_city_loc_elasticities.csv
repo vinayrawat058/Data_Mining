@@ -1,0 +1,1632 @@
+Store_City,Store_Location,Product_ID,Elasticity
+Aguascalientes,Downtown,1,-0.08280472720732517
+Aguascalientes,Downtown,2,-0.17193488627651318
+Aguascalientes,Downtown,3,-0.13976294860766017
+Aguascalientes,Downtown,4,-0.001
+Aguascalientes,Downtown,5,-0.001
+Aguascalientes,Downtown,6,-0.7594651607863145
+Aguascalientes,Downtown,7,-0.7263975693732485
+Aguascalientes,Downtown,8,-0.6935973300894591
+Aguascalientes,Downtown,9,-0.3371397994410951
+Aguascalientes,Downtown,10,-0.596260938427436
+Aguascalientes,Downtown,11,-0.001
+Aguascalientes,Downtown,12,-0.001
+Aguascalientes,Downtown,13,-0.001
+Aguascalientes,Downtown,14,-2.7496789961265438
+Aguascalientes,Downtown,15,-0.001
+Aguascalientes,Downtown,16,-0.001
+Aguascalientes,Downtown,17,-2.8854790628781863
+Aguascalientes,Downtown,18,-0.9871842903584579
+Aguascalientes,Downtown,19,-0.99887073941874
+Aguascalientes,Downtown,20,-0.001
+Aguascalientes,Downtown,21,-0.37055977375291826
+Aguascalientes,Downtown,22,-0.001
+Aguascalientes,Downtown,23,-0.34103837718938956
+Aguascalientes,Downtown,24,-0.001
+Aguascalientes,Downtown,25,-0.001
+Aguascalientes,Downtown,26,-0.001
+Aguascalientes,Downtown,27,-0.001
+Aguascalientes,Downtown,28,-0.8318794141381283
+Aguascalientes,Downtown,29,-0.001
+Aguascalientes,Downtown,30,-0.9112503415245625
+Aguascalientes,Downtown,31,-2.0334108424765933
+Aguascalientes,Downtown,32,-13.862351034876003
+Aguascalientes,Downtown,33,-2.527609785018498
+Aguascalientes,Downtown,34,-3.6932804180011933
+Aguascalientes,Downtown,35,-0.001
+Campeche,Commercial,1,-0.001
+Campeche,Commercial,2,-0.5823323344806924
+Campeche,Commercial,3,-1.353440671916525
+Campeche,Commercial,4,-0.001
+Campeche,Commercial,5,-0.047157846612369915
+Campeche,Commercial,6,-1.4257980123691594
+Campeche,Commercial,7,-0.6286179157552656
+Campeche,Commercial,8,-1.7072470868556597
+Campeche,Commercial,9,-0.001
+Campeche,Commercial,10,-0.001
+Campeche,Commercial,11,-0.001
+Campeche,Commercial,12,-0.001
+Campeche,Commercial,13,-0.001
+Campeche,Commercial,14,-1.2335025258266568
+Campeche,Commercial,15,-0.001
+Campeche,Commercial,16,-0.6877890020183361
+Campeche,Commercial,17,-0.001
+Campeche,Commercial,18,-0.001
+Campeche,Commercial,19,-0.001
+Campeche,Commercial,20,-0.001
+Campeche,Commercial,21,-0.001
+Campeche,Commercial,22,-0.001
+Campeche,Commercial,23,-1.0319610047308772
+Campeche,Commercial,24,-0.001
+Campeche,Commercial,25,-1.1494302898939712
+Campeche,Commercial,26,-0.001
+Campeche,Commercial,27,-0.001
+Campeche,Commercial,28,-0.7453812002459645
+Campeche,Commercial,29,-0.001
+Campeche,Commercial,30,-0.001
+Campeche,Commercial,31,-1.6979258400042854
+Campeche,Commercial,32,-2.7001336562352773
+Campeche,Commercial,33,-0.001
+Campeche,Commercial,34,-0.001
+Campeche,Commercial,35,-6.202067521038597
+Campeche,Downtown,1,-0.2021669334682197
+Campeche,Downtown,2,-0.001
+Campeche,Downtown,3,-0.6377455912377006
+Campeche,Downtown,4,-0.001
+Campeche,Downtown,5,-0.001
+Campeche,Downtown,6,-0.946274642382772
+Campeche,Downtown,7,-2.656414194475527
+Campeche,Downtown,8,-0.001
+Campeche,Downtown,9,-0.4586274721802803
+Campeche,Downtown,10,-0.75618174987088
+Campeche,Downtown,11,-2.780625816433706
+Campeche,Downtown,12,-0.4230576421754635
+Campeche,Downtown,13,-0.001
+Campeche,Downtown,14,-0.961202267174478
+Campeche,Downtown,15,-0.001
+Campeche,Downtown,16,-0.5739856332823841
+Campeche,Downtown,17,-0.001
+Campeche,Downtown,18,-1.737300398686081
+Campeche,Downtown,19,-0.001
+Campeche,Downtown,20,-0.046504280575587614
+Campeche,Downtown,21,-0.8287196997195716
+Campeche,Downtown,22,-12.203615162857849
+Campeche,Downtown,23,-0.8056692884045084
+Campeche,Downtown,24,-0.001
+Campeche,Downtown,25,-0.5518103196181736
+Campeche,Downtown,26,-1.0708024121359638
+Campeche,Downtown,27,-1.4128914633855336
+Campeche,Downtown,28,-16.972760583202906
+Campeche,Downtown,29,-0.001
+Campeche,Downtown,30,-1.1368292972653469
+Campeche,Downtown,31,-1.0718316799027778
+Campeche,Downtown,32,-0.4411583355606146
+Campeche,Downtown,33,-0.001
+Campeche,Downtown,34,-2.0158581811111134
+Campeche,Downtown,35,-0.001
+Chetumal,Downtown,1,-0.001
+Chetumal,Downtown,2,-1.2664036600608477
+Chetumal,Downtown,3,-0.001
+Chetumal,Downtown,4,-0.001
+Chetumal,Downtown,5,-1.4215133437798824
+Chetumal,Downtown,6,-0.16706377613250462
+Chetumal,Downtown,7,-0.001
+Chetumal,Downtown,8,-0.19645834411892338
+Chetumal,Downtown,9,-0.5513740754997973
+Chetumal,Downtown,10,-0.001
+Chetumal,Downtown,11,-0.001
+Chetumal,Downtown,12,-0.001
+Chetumal,Downtown,13,-0.001
+Chetumal,Downtown,14,-0.001
+Chetumal,Downtown,15,-0.4676220699540906
+Chetumal,Downtown,16,-0.001
+Chetumal,Downtown,17,-0.001
+Chetumal,Downtown,18,-0.5635692625835882
+Chetumal,Downtown,19,-1.3719585407610468
+Chetumal,Downtown,20,-0.001
+Chetumal,Downtown,21,-0.1816163738204904
+Chetumal,Downtown,22,-0.001
+Chetumal,Downtown,23,-0.001
+Chetumal,Downtown,24,-1.1118843808679542
+Chetumal,Downtown,25,-0.2190525163292832
+Chetumal,Downtown,26,-0.001
+Chetumal,Downtown,27,-0.34088187477617204
+Chetumal,Downtown,28,-0.001
+Chetumal,Downtown,29,-0.001
+Chetumal,Downtown,30,-0.39086270168009546
+Chetumal,Downtown,31,-2.638815406254028
+Chetumal,Downtown,32,-0.001
+Chetumal,Downtown,33,-0.001
+Chetumal,Downtown,34,-2.0306312192398335
+Chetumal,Downtown,35,-0.001
+Chihuahua,Commercial,1,-0.001
+Chihuahua,Commercial,2,-0.001
+Chihuahua,Commercial,3,-0.2268477253099347
+Chihuahua,Commercial,4,-0.001
+Chihuahua,Commercial,5,-0.001
+Chihuahua,Commercial,6,-0.2627865951704881
+Chihuahua,Commercial,7,-0.001
+Chihuahua,Commercial,8,-0.6567467794139481
+Chihuahua,Commercial,9,-0.5378498370095879
+Chihuahua,Commercial,10,-1.127539537038452
+Chihuahua,Commercial,11,-0.001
+Chihuahua,Commercial,12,-3.2441634192981583
+Chihuahua,Commercial,13,-0.001
+Chihuahua,Commercial,14,-0.001
+Chihuahua,Commercial,15,-2.3527310807973922
+Chihuahua,Commercial,16,-2.3964235011813857
+Chihuahua,Commercial,17,-0.001
+Chihuahua,Commercial,18,-1.5878057012999187
+Chihuahua,Commercial,19,-0.001
+Chihuahua,Commercial,20,-0.001
+Chihuahua,Commercial,21,-0.7409161811423393
+Chihuahua,Commercial,22,-0.001
+Chihuahua,Commercial,23,-4.0773705125084705
+Chihuahua,Commercial,24,-0.001
+Chihuahua,Commercial,25,-0.001
+Chihuahua,Commercial,26,-0.001
+Chihuahua,Commercial,27,-0.001
+Chihuahua,Commercial,28,-8.974206158433184
+Chihuahua,Commercial,29,-0.001
+Chihuahua,Commercial,30,-0.001
+Chihuahua,Commercial,31,-0.19597283060394682
+Chihuahua,Commercial,32,-0.001
+Chihuahua,Commercial,33,-0.001
+Chihuahua,Commercial,34,-0.001
+Chihuahua,Commercial,35,-0.001
+Chihuahua,Downtown,1,-0.001
+Chihuahua,Downtown,2,-0.001
+Chihuahua,Downtown,3,-0.7937712552496252
+Chihuahua,Downtown,4,-0.001
+Chihuahua,Downtown,5,-0.001
+Chihuahua,Downtown,6,-0.001
+Chihuahua,Downtown,7,-0.001
+Chihuahua,Downtown,8,-0.001
+Chihuahua,Downtown,9,-0.001
+Chihuahua,Downtown,10,-0.001
+Chihuahua,Downtown,11,-0.2035364753009667
+Chihuahua,Downtown,12,-0.001
+Chihuahua,Downtown,13,-0.001
+Chihuahua,Downtown,14,-1.0105603227241948
+Chihuahua,Downtown,15,-0.2084875369549441
+Chihuahua,Downtown,16,-0.001
+Chihuahua,Downtown,17,-0.001
+Chihuahua,Downtown,18,-0.001
+Chihuahua,Downtown,19,-0.001
+Chihuahua,Downtown,20,-0.001
+Chihuahua,Downtown,21,-1.3555052537908203
+Chihuahua,Downtown,22,-0.2685138529121056
+Chihuahua,Downtown,23,-0.001
+Chihuahua,Downtown,24,-0.001
+Chihuahua,Downtown,25,-0.425250280183454
+Chihuahua,Downtown,26,-0.001
+Chihuahua,Downtown,27,-0.3239284111153774
+Chihuahua,Downtown,28,-8.566047310929108
+Chihuahua,Downtown,29,-0.001
+Chihuahua,Downtown,30,-0.001
+Chihuahua,Downtown,31,-0.6581583460929021
+Chihuahua,Downtown,32,-0.001
+Chihuahua,Downtown,33,-0.001
+Chihuahua,Downtown,34,-0.001
+Chihuahua,Downtown,35,-0.001
+Chilpancingo,Downtown,1,-0.001
+Chilpancingo,Downtown,2,-0.001
+Chilpancingo,Downtown,3,-0.001
+Chilpancingo,Downtown,6,-0.2180838516113658
+Chilpancingo,Downtown,7,-1.3273927915852348
+Chilpancingo,Downtown,8,-0.5380241428245438
+Chilpancingo,Downtown,9,-0.30178628485495557
+Chilpancingo,Downtown,10,-0.001
+Chilpancingo,Downtown,11,-0.001
+Chilpancingo,Downtown,12,-0.001
+Chilpancingo,Downtown,13,-0.001
+Chilpancingo,Downtown,14,-1.9365491214490198
+Chilpancingo,Downtown,15,-0.12844929003181793
+Chilpancingo,Downtown,16,-1.5979520067322381
+Chilpancingo,Downtown,17,-0.001
+Chilpancingo,Downtown,18,-1.5789816602706472
+Chilpancingo,Downtown,19,-0.001
+Chilpancingo,Downtown,21,-0.3399788650663105
+Chilpancingo,Downtown,23,-0.001
+Chilpancingo,Downtown,24,-0.9810820409032599
+Chilpancingo,Downtown,25,-0.001
+Chilpancingo,Downtown,26,-0.001
+Chilpancingo,Downtown,27,-0.001
+Chilpancingo,Downtown,28,-0.001
+Chilpancingo,Downtown,29,-0.001
+Chilpancingo,Downtown,30,-1.9956064483088471
+Chilpancingo,Downtown,31,-0.001
+Chilpancingo,Downtown,32,-0.001
+Chilpancingo,Downtown,33,-0.001
+Chilpancingo,Downtown,34,-0.2992945339410188
+Ciudad Victoria,Downtown,1,-0.001
+Ciudad Victoria,Downtown,2,-0.001
+Ciudad Victoria,Downtown,3,-0.6507594330989865
+Ciudad Victoria,Downtown,6,-1.469023009473866
+Ciudad Victoria,Downtown,7,-0.6528506080959762
+Ciudad Victoria,Downtown,8,-0.02905966070022531
+Ciudad Victoria,Downtown,9,-0.001
+Ciudad Victoria,Downtown,10,-1.9356037330688576
+Ciudad Victoria,Downtown,11,-0.001
+Ciudad Victoria,Downtown,12,-0.001
+Ciudad Victoria,Downtown,13,-1.623484856554325
+Ciudad Victoria,Downtown,14,-0.001
+Ciudad Victoria,Downtown,15,-0.24018060342156594
+Ciudad Victoria,Downtown,16,-0.001
+Ciudad Victoria,Downtown,17,-0.31316079511443023
+Ciudad Victoria,Downtown,18,-0.001
+Ciudad Victoria,Downtown,19,-1.6004642831934164
+Ciudad Victoria,Downtown,21,-0.001
+Ciudad Victoria,Downtown,23,-2.564627710875631
+Ciudad Victoria,Downtown,24,-0.001
+Ciudad Victoria,Downtown,25,-0.001
+Ciudad Victoria,Downtown,26,-0.001
+Ciudad Victoria,Downtown,27,-0.6172705781526677
+Ciudad Victoria,Downtown,28,-0.001
+Ciudad Victoria,Downtown,29,-0.001
+Ciudad Victoria,Downtown,30,-0.06791268254659837
+Ciudad Victoria,Downtown,31,-0.001
+Ciudad Victoria,Downtown,32,-0.001
+Ciudad Victoria,Downtown,33,-0.001
+Ciudad Victoria,Downtown,34,-0.001
+Cuernavaca,Downtown,1,-0.06899669854762146
+Cuernavaca,Downtown,2,-0.679121480772495
+Cuernavaca,Downtown,3,-1.1786074692359558
+Cuernavaca,Downtown,5,-0.001
+Cuernavaca,Downtown,6,-1.13327314826794
+Cuernavaca,Downtown,7,-1.3339883945652662
+Cuernavaca,Downtown,8,-0.329607125866494
+Cuernavaca,Downtown,9,-0.001
+Cuernavaca,Downtown,10,-2.731438541950512
+Cuernavaca,Downtown,11,-0.001
+Cuernavaca,Downtown,12,-0.001
+Cuernavaca,Downtown,13,-0.001
+Cuernavaca,Downtown,14,-0.001
+Cuernavaca,Downtown,15,-1.2080778066826081
+Cuernavaca,Downtown,16,-0.7221163231488332
+Cuernavaca,Downtown,17,-0.4672347538769046
+Cuernavaca,Downtown,18,-0.723412600129558
+Cuernavaca,Downtown,19,-0.001
+Cuernavaca,Downtown,20,-0.001
+Cuernavaca,Downtown,21,-0.001
+Cuernavaca,Downtown,23,-0.001
+Cuernavaca,Downtown,24,-0.001
+Cuernavaca,Downtown,25,-0.9697686419480602
+Cuernavaca,Downtown,26,-0.001
+Cuernavaca,Downtown,27,-0.001
+Cuernavaca,Downtown,28,-0.001
+Cuernavaca,Downtown,29,-0.912354533424054
+Cuernavaca,Downtown,30,-0.001
+Cuernavaca,Downtown,31,-2.7393122061793767
+Cuernavaca,Downtown,32,-0.001
+Cuernavaca,Downtown,33,-0.001
+Cuernavaca,Downtown,34,-2.4444476526739325
+Cuernavaca,Downtown,35,-0.001
+Cuidad de Mexico,Airport,1,-0.001
+Cuidad de Mexico,Airport,2,-0.001
+Cuidad de Mexico,Airport,3,-0.5708501332965109
+Cuidad de Mexico,Airport,6,-2.601548197087053
+Cuidad de Mexico,Airport,7,-0.18033828187823372
+Cuidad de Mexico,Airport,8,-0.8207147767158132
+Cuidad de Mexico,Airport,9,-0.001
+Cuidad de Mexico,Airport,10,-0.996004019391243
+Cuidad de Mexico,Airport,11,-0.14997909990115937
+Cuidad de Mexico,Airport,12,-0.001
+Cuidad de Mexico,Airport,13,-1.5523558325425215
+Cuidad de Mexico,Airport,14,-0.001
+Cuidad de Mexico,Airport,15,-0.001
+Cuidad de Mexico,Airport,16,-1.8287452862729403
+Cuidad de Mexico,Airport,17,-0.001
+Cuidad de Mexico,Airport,18,-0.9150476457680519
+Cuidad de Mexico,Airport,19,-0.032992734843011545
+Cuidad de Mexico,Airport,21,-0.001
+Cuidad de Mexico,Airport,23,-0.001
+Cuidad de Mexico,Airport,24,-0.001
+Cuidad de Mexico,Airport,25,-0.001
+Cuidad de Mexico,Airport,26,-0.001
+Cuidad de Mexico,Airport,27,-0.11144294647872802
+Cuidad de Mexico,Airport,28,-0.001
+Cuidad de Mexico,Airport,29,-0.001
+Cuidad de Mexico,Airport,30,-0.5122596994617077
+Cuidad de Mexico,Airport,31,-1.2074717927017806
+Cuidad de Mexico,Airport,32,-0.1463828530919644
+Cuidad de Mexico,Airport,33,-0.001
+Cuidad de Mexico,Airport,34,-0.001
+Cuidad de Mexico,Commercial,1,-0.3974183013830823
+Cuidad de Mexico,Commercial,2,-1.0870099886025546
+Cuidad de Mexico,Commercial,3,-0.001
+Cuidad de Mexico,Commercial,6,-1.6069375271535609
+Cuidad de Mexico,Commercial,7,-0.662247449939738
+Cuidad de Mexico,Commercial,8,-0.001
+Cuidad de Mexico,Commercial,9,-0.001
+Cuidad de Mexico,Commercial,10,-0.18934259580902502
+Cuidad de Mexico,Commercial,11,-0.001
+Cuidad de Mexico,Commercial,12,-0.001
+Cuidad de Mexico,Commercial,13,-1.0625496500584375
+Cuidad de Mexico,Commercial,14,-0.17344228669550035
+Cuidad de Mexico,Commercial,15,-0.001
+Cuidad de Mexico,Commercial,16,-0.7307115775030197
+Cuidad de Mexico,Commercial,17,-2.08601475534305
+Cuidad de Mexico,Commercial,18,-0.001
+Cuidad de Mexico,Commercial,19,-0.001
+Cuidad de Mexico,Commercial,21,-0.001
+Cuidad de Mexico,Commercial,23,-0.001
+Cuidad de Mexico,Commercial,24,-0.29723765257091334
+Cuidad de Mexico,Commercial,25,-0.001
+Cuidad de Mexico,Commercial,26,-0.001
+Cuidad de Mexico,Commercial,27,-0.5471490161913267
+Cuidad de Mexico,Commercial,28,-0.001
+Cuidad de Mexico,Commercial,29,-0.001
+Cuidad de Mexico,Commercial,30,-0.001
+Cuidad de Mexico,Commercial,31,-0.001
+Cuidad de Mexico,Commercial,32,-0.001
+Cuidad de Mexico,Commercial,33,-0.001
+Cuidad de Mexico,Commercial,34,-0.001
+Cuidad de Mexico,Downtown,1,-0.9664551403125201
+Cuidad de Mexico,Downtown,2,-0.0952886540387838
+Cuidad de Mexico,Downtown,3,-0.001
+Cuidad de Mexico,Downtown,4,-3.5711164693839725
+Cuidad de Mexico,Downtown,5,-0.001
+Cuidad de Mexico,Downtown,6,-0.001
+Cuidad de Mexico,Downtown,7,-0.4803147446556094
+Cuidad de Mexico,Downtown,8,-0.5498149229887911
+Cuidad de Mexico,Downtown,9,-0.8674062880736024
+Cuidad de Mexico,Downtown,10,-2.2559972952169063
+Cuidad de Mexico,Downtown,11,-0.001
+Cuidad de Mexico,Downtown,12,-0.001
+Cuidad de Mexico,Downtown,13,-0.001
+Cuidad de Mexico,Downtown,14,-1.3959700628000768
+Cuidad de Mexico,Downtown,15,-0.12298774896007786
+Cuidad de Mexico,Downtown,16,-0.001
+Cuidad de Mexico,Downtown,17,-0.001
+Cuidad de Mexico,Downtown,18,-0.8870121109740268
+Cuidad de Mexico,Downtown,19,-0.001
+Cuidad de Mexico,Downtown,20,-0.001
+Cuidad de Mexico,Downtown,21,-0.4347698113280249
+Cuidad de Mexico,Downtown,22,-0.001
+Cuidad de Mexico,Downtown,23,-0.0142027216055182
+Cuidad de Mexico,Downtown,24,-0.31051254885225316
+Cuidad de Mexico,Downtown,25,-0.11402495075290768
+Cuidad de Mexico,Downtown,26,-0.15193155476374615
+Cuidad de Mexico,Downtown,27,-0.8405181672860986
+Cuidad de Mexico,Downtown,28,-0.001
+Cuidad de Mexico,Downtown,29,-0.001
+Cuidad de Mexico,Downtown,30,-0.13019771831233778
+Cuidad de Mexico,Downtown,31,-0.12201277116320208
+Cuidad de Mexico,Downtown,32,-0.001
+Cuidad de Mexico,Downtown,33,-0.001
+Cuidad de Mexico,Downtown,34,-0.001
+Cuidad de Mexico,Downtown,35,-0.001
+Cuidad de Mexico,Residential,1,-0.001
+Cuidad de Mexico,Residential,2,-0.001
+Cuidad de Mexico,Residential,3,-0.6125842975469606
+Cuidad de Mexico,Residential,4,-0.001
+Cuidad de Mexico,Residential,5,-2.356388124727658
+Cuidad de Mexico,Residential,6,-0.001
+Cuidad de Mexico,Residential,7,-0.001
+Cuidad de Mexico,Residential,8,-0.001
+Cuidad de Mexico,Residential,9,-0.001
+Cuidad de Mexico,Residential,10,-0.001
+Cuidad de Mexico,Residential,11,-0.001
+Cuidad de Mexico,Residential,12,-0.001
+Cuidad de Mexico,Residential,13,-0.001
+Cuidad de Mexico,Residential,14,-0.001
+Cuidad de Mexico,Residential,15,-0.8068926513047803
+Cuidad de Mexico,Residential,16,-0.12575101120301743
+Cuidad de Mexico,Residential,17,-0.001
+Cuidad de Mexico,Residential,18,-0.001
+Cuidad de Mexico,Residential,19,-0.34708625836710705
+Cuidad de Mexico,Residential,20,-0.001
+Cuidad de Mexico,Residential,21,-0.001
+Cuidad de Mexico,Residential,22,-0.001
+Cuidad de Mexico,Residential,23,-1.4114425897230065
+Cuidad de Mexico,Residential,24,-0.001
+Cuidad de Mexico,Residential,25,-0.001
+Cuidad de Mexico,Residential,26,-0.001
+Cuidad de Mexico,Residential,27,-0.001
+Cuidad de Mexico,Residential,28,-0.001
+Cuidad de Mexico,Residential,29,-0.001
+Cuidad de Mexico,Residential,30,-0.001
+Cuidad de Mexico,Residential,31,-0.34295127474544973
+Cuidad de Mexico,Residential,32,-0.001
+Cuidad de Mexico,Residential,33,-0.001
+Cuidad de Mexico,Residential,34,-0.001
+Cuidad de Mexico,Residential,35,-0.001
+Culiacan,Downtown,1,-0.001
+Culiacan,Downtown,2,-0.001
+Culiacan,Downtown,3,-0.001
+Culiacan,Downtown,4,-0.001
+Culiacan,Downtown,5,-0.001
+Culiacan,Downtown,6,-0.001
+Culiacan,Downtown,7,-0.001
+Culiacan,Downtown,8,-0.001
+Culiacan,Downtown,9,-0.001
+Culiacan,Downtown,10,-0.17002828125921857
+Culiacan,Downtown,11,-0.001
+Culiacan,Downtown,12,-0.001
+Culiacan,Downtown,13,-0.001
+Culiacan,Downtown,14,-0.001
+Culiacan,Downtown,15,-0.001
+Culiacan,Downtown,16,-0.001
+Culiacan,Downtown,17,-0.001
+Culiacan,Downtown,18,-1.3676344758706918
+Culiacan,Downtown,19,-0.001
+Culiacan,Downtown,20,-0.001
+Culiacan,Downtown,21,-0.001
+Culiacan,Downtown,22,-0.001
+Culiacan,Downtown,23,-1.4768538640990214
+Culiacan,Downtown,24,-0.001
+Culiacan,Downtown,25,-0.001
+Culiacan,Downtown,26,-0.001
+Culiacan,Downtown,27,-0.001
+Culiacan,Downtown,28,-4.066296103714244
+Culiacan,Downtown,29,-0.001
+Culiacan,Downtown,30,-0.05926002105461441
+Culiacan,Downtown,31,-1.7781217223408434
+Culiacan,Downtown,32,-1.0478914167377469
+Culiacan,Downtown,33,-0.001
+Culiacan,Downtown,34,-0.001
+Culiacan,Downtown,35,-0.001
+Durango,Downtown,1,-0.001
+Durango,Downtown,2,-0.001
+Durango,Downtown,3,-0.001
+Durango,Downtown,6,-0.4567265223362057
+Durango,Downtown,7,-0.001
+Durango,Downtown,8,-1.8351815577306405
+Durango,Downtown,9,-0.001
+Durango,Downtown,10,-0.001
+Durango,Downtown,11,-0.001
+Durango,Downtown,12,-0.001
+Durango,Downtown,13,-0.9365722537754602
+Durango,Downtown,14,-1.3474056369374134
+Durango,Downtown,15,-0.24482477832337712
+Durango,Downtown,16,-0.001
+Durango,Downtown,17,-0.001
+Durango,Downtown,18,-0.001
+Durango,Downtown,19,-0.001
+Durango,Downtown,21,-0.001
+Durango,Downtown,23,-2.157147215264539
+Durango,Downtown,24,-0.001
+Durango,Downtown,25,-0.004269746316377235
+Durango,Downtown,26,-0.001
+Durango,Downtown,27,-0.20229168139576348
+Durango,Downtown,28,-0.001
+Durango,Downtown,29,-0.001
+Durango,Downtown,30,-0.001
+Durango,Downtown,31,-0.9517438065859574
+Durango,Downtown,32,-0.7661030016378417
+Durango,Downtown,33,-2.9498614105840852
+Durango,Downtown,34,-0.001
+Guadalajara,Airport,1,-0.023682581022927852
+Guadalajara,Airport,2,-0.8367537300087846
+Guadalajara,Airport,3,-0.6114957137997943
+Guadalajara,Airport,6,-1.0937243206029637
+Guadalajara,Airport,7,-0.08432919898741335
+Guadalajara,Airport,8,-0.08940371563175811
+Guadalajara,Airport,9,-0.001
+Guadalajara,Airport,10,-0.001
+Guadalajara,Airport,11,-1.5843193436630496
+Guadalajara,Airport,12,-2.9629617139690723
+Guadalajara,Airport,13,-3.147064940433249
+Guadalajara,Airport,14,-0.2636908292979747
+Guadalajara,Airport,15,-0.001
+Guadalajara,Airport,16,-0.21444147401025265
+Guadalajara,Airport,17,-0.8799154350022207
+Guadalajara,Airport,18,-0.001
+Guadalajara,Airport,19,-2.024877773956768
+Guadalajara,Airport,21,-0.001
+Guadalajara,Airport,23,-7.493778038026797
+Guadalajara,Airport,24,-0.001
+Guadalajara,Airport,25,-0.001
+Guadalajara,Airport,26,-0.45083609044903605
+Guadalajara,Airport,27,-0.4892706065234485
+Guadalajara,Airport,28,-8.93341754384804
+Guadalajara,Airport,29,-0.001
+Guadalajara,Airport,30,-0.69693028707968
+Guadalajara,Airport,31,-0.001
+Guadalajara,Airport,32,-0.001
+Guadalajara,Airport,33,-0.001
+Guadalajara,Airport,34,-1.0045416144081525
+Guadalajara,Commercial,1,-0.2717270879994957
+Guadalajara,Commercial,2,-0.001
+Guadalajara,Commercial,3,-0.001
+Guadalajara,Commercial,6,-1.562413870344132
+Guadalajara,Commercial,7,-0.001
+Guadalajara,Commercial,8,-0.001
+Guadalajara,Commercial,9,-0.862039500738156
+Guadalajara,Commercial,10,-0.07666819039204656
+Guadalajara,Commercial,11,-0.001
+Guadalajara,Commercial,12,-0.001
+Guadalajara,Commercial,13,-0.001
+Guadalajara,Commercial,14,-1.262502968790117
+Guadalajara,Commercial,15,-0.001
+Guadalajara,Commercial,16,-0.001
+Guadalajara,Commercial,17,-0.001
+Guadalajara,Commercial,18,-0.001
+Guadalajara,Commercial,19,-0.001
+Guadalajara,Commercial,21,-0.0018738695895110867
+Guadalajara,Commercial,23,-0.001
+Guadalajara,Commercial,24,-0.5290753914186788
+Guadalajara,Commercial,25,-0.49855695181164755
+Guadalajara,Commercial,26,-0.001
+Guadalajara,Commercial,27,-0.3245091029254826
+Guadalajara,Commercial,28,-0.001
+Guadalajara,Commercial,29,-0.001
+Guadalajara,Commercial,30,-0.001
+Guadalajara,Commercial,31,-0.9497353382081488
+Guadalajara,Commercial,32,-0.001
+Guadalajara,Commercial,33,-0.001
+Guadalajara,Commercial,34,-0.001
+Guadalajara,Downtown,1,-0.001
+Guadalajara,Downtown,2,-0.005369559716853253
+Guadalajara,Downtown,3,-0.001
+Guadalajara,Downtown,6,-0.4825523414971953
+Guadalajara,Downtown,7,-0.4556224423805689
+Guadalajara,Downtown,8,-0.001
+Guadalajara,Downtown,9,-0.25223971190666694
+Guadalajara,Downtown,10,-0.001
+Guadalajara,Downtown,11,-4.539478553417235
+Guadalajara,Downtown,12,-0.001
+Guadalajara,Downtown,13,-0.42901641786389927
+Guadalajara,Downtown,14,-0.001
+Guadalajara,Downtown,15,-0.5442945492960399
+Guadalajara,Downtown,16,-0.001
+Guadalajara,Downtown,17,-3.404647020894073
+Guadalajara,Downtown,18,-0.001
+Guadalajara,Downtown,19,-0.001
+Guadalajara,Downtown,21,-1.8469064662909833
+Guadalajara,Downtown,23,-1.648056492779859
+Guadalajara,Downtown,24,-0.001
+Guadalajara,Downtown,25,-0.001
+Guadalajara,Downtown,26,-0.001
+Guadalajara,Downtown,27,-0.001
+Guadalajara,Downtown,28,-0.001
+Guadalajara,Downtown,29,-0.001
+Guadalajara,Downtown,30,-0.5906005002551786
+Guadalajara,Downtown,31,-0.3879681055172249
+Guadalajara,Downtown,32,-0.001
+Guadalajara,Downtown,33,-0.001
+Guadalajara,Downtown,34,-2.6301131079532087
+Guadalajara,Residential,1,-0.001
+Guadalajara,Residential,2,-0.001
+Guadalajara,Residential,3,-0.001
+Guadalajara,Residential,4,-0.001
+Guadalajara,Residential,5,-0.001
+Guadalajara,Residential,6,-0.001
+Guadalajara,Residential,7,-0.001
+Guadalajara,Residential,8,-0.5592963954036357
+Guadalajara,Residential,9,-0.001
+Guadalajara,Residential,10,-0.001
+Guadalajara,Residential,11,-0.9519942817482677
+Guadalajara,Residential,12,-0.001
+Guadalajara,Residential,13,-0.577572253596371
+Guadalajara,Residential,14,-0.001
+Guadalajara,Residential,15,-0.001
+Guadalajara,Residential,16,-0.10803008623920345
+Guadalajara,Residential,17,-0.001
+Guadalajara,Residential,18,-0.001
+Guadalajara,Residential,19,-0.001
+Guadalajara,Residential,20,-0.001
+Guadalajara,Residential,21,-1.0084984868782298
+Guadalajara,Residential,22,-0.001
+Guadalajara,Residential,23,-0.12793154386661199
+Guadalajara,Residential,24,-0.001
+Guadalajara,Residential,25,-0.001
+Guadalajara,Residential,26,-0.001
+Guadalajara,Residential,27,-0.30140810621551
+Guadalajara,Residential,28,-2.1645682209382606
+Guadalajara,Residential,29,-0.001
+Guadalajara,Residential,30,-0.6310732979550706
+Guadalajara,Residential,31,-0.10103282736453868
+Guadalajara,Residential,32,-0.13602567873008334
+Guadalajara,Residential,33,-0.001
+Guadalajara,Residential,34,-0.001
+Guadalajara,Residential,35,-0.001
+Guanajuato,Commercial,1,-0.001
+Guanajuato,Commercial,2,-0.001
+Guanajuato,Commercial,3,-0.7715448699564328
+Guanajuato,Commercial,4,-0.001
+Guanajuato,Commercial,5,-0.001
+Guanajuato,Commercial,6,-0.48197958086528386
+Guanajuato,Commercial,7,-0.001
+Guanajuato,Commercial,8,-1.138539575087008
+Guanajuato,Commercial,9,-0.001
+Guanajuato,Commercial,10,-0.3274748839974817
+Guanajuato,Commercial,11,-0.001
+Guanajuato,Commercial,12,-0.001
+Guanajuato,Commercial,13,-0.001
+Guanajuato,Commercial,14,-0.001
+Guanajuato,Commercial,15,-0.001
+Guanajuato,Commercial,16,-0.001
+Guanajuato,Commercial,17,-0.015543736642836769
+Guanajuato,Commercial,18,-0.001
+Guanajuato,Commercial,19,-0.001
+Guanajuato,Commercial,20,-0.2716022524672546
+Guanajuato,Commercial,21,-0.8232160213618085
+Guanajuato,Commercial,22,-0.001
+Guanajuato,Commercial,23,-0.001
+Guanajuato,Commercial,24,-1.3938989175481669
+Guanajuato,Commercial,25,-0.001
+Guanajuato,Commercial,26,-0.001
+Guanajuato,Commercial,27,-0.001
+Guanajuato,Commercial,28,-0.001
+Guanajuato,Commercial,29,-0.716697456473887
+Guanajuato,Commercial,30,-0.21370873460279888
+Guanajuato,Commercial,31,-1.8815701484763303
+Guanajuato,Commercial,32,-0.001
+Guanajuato,Commercial,33,-0.001
+Guanajuato,Commercial,34,-0.001
+Guanajuato,Commercial,35,-0.001
+Guanajuato,Downtown,1,-0.4436096397906941
+Guanajuato,Downtown,2,-0.001
+Guanajuato,Downtown,3,-0.39103096347404387
+Guanajuato,Downtown,6,-0.001
+Guanajuato,Downtown,7,-0.3359162037313499
+Guanajuato,Downtown,8,-0.18292045571081153
+Guanajuato,Downtown,9,-0.001
+Guanajuato,Downtown,10,-0.001
+Guanajuato,Downtown,11,-0.001
+Guanajuato,Downtown,12,-0.001
+Guanajuato,Downtown,13,-0.001
+Guanajuato,Downtown,14,-0.7970907593025609
+Guanajuato,Downtown,15,-0.2033577919269149
+Guanajuato,Downtown,16,-0.001
+Guanajuato,Downtown,17,-0.5059479364157689
+Guanajuato,Downtown,18,-0.7019922451940657
+Guanajuato,Downtown,19,-0.001
+Guanajuato,Downtown,21,-0.001
+Guanajuato,Downtown,23,-0.001
+Guanajuato,Downtown,24,-0.001
+Guanajuato,Downtown,25,-0.001
+Guanajuato,Downtown,27,-0.09208460720313108
+Guanajuato,Downtown,28,-16.67437866098728
+Guanajuato,Downtown,29,-0.001
+Guanajuato,Downtown,30,-0.38806465842391213
+Guanajuato,Downtown,31,-0.001
+Guanajuato,Downtown,32,-0.001
+Guanajuato,Downtown,33,-0.001
+Guanajuato,Downtown,34,-0.001
+Guanajuato,Residential,1,-0.001
+Guanajuato,Residential,2,-0.8282593311212271
+Guanajuato,Residential,3,-0.001
+Guanajuato,Residential,4,-0.001
+Guanajuato,Residential,5,-0.17122425217718087
+Guanajuato,Residential,6,-0.001
+Guanajuato,Residential,7,-0.001
+Guanajuato,Residential,8,-0.8504658477954266
+Guanajuato,Residential,9,-0.001
+Guanajuato,Residential,10,-0.001
+Guanajuato,Residential,11,-0.001
+Guanajuato,Residential,12,-0.001
+Guanajuato,Residential,13,-4.97929400561344
+Guanajuato,Residential,14,-0.001
+Guanajuato,Residential,15,-0.001
+Guanajuato,Residential,16,-0.001
+Guanajuato,Residential,17,-0.001
+Guanajuato,Residential,18,-0.001
+Guanajuato,Residential,19,-0.001
+Guanajuato,Residential,20,-0.001
+Guanajuato,Residential,21,-0.001
+Guanajuato,Residential,22,-0.001
+Guanajuato,Residential,23,-0.001
+Guanajuato,Residential,24,-0.001
+Guanajuato,Residential,25,-0.6865912455017524
+Guanajuato,Residential,26,-0.001
+Guanajuato,Residential,27,-2.728667692862956
+Guanajuato,Residential,28,-0.001
+Guanajuato,Residential,29,-5.281362929837073
+Guanajuato,Residential,30,-0.001
+Guanajuato,Residential,31,-0.001
+Guanajuato,Residential,32,-2.598232960715061
+Guanajuato,Residential,33,-0.001
+Guanajuato,Residential,34,-0.4375175440108561
+Guanajuato,Residential,35,-0.001
+Hermosillo,Commercial,1,-1.5153314645569398
+Hermosillo,Commercial,2,-0.001
+Hermosillo,Commercial,3,-0.001
+Hermosillo,Commercial,4,-0.001
+Hermosillo,Commercial,5,-0.001
+Hermosillo,Commercial,6,-1.2853648998880698
+Hermosillo,Commercial,7,-1.8036666684019498
+Hermosillo,Commercial,8,-1.0718849823821894
+Hermosillo,Commercial,9,-0.001
+Hermosillo,Commercial,10,-0.001
+Hermosillo,Commercial,11,-0.001
+Hermosillo,Commercial,12,-4.509588483558632
+Hermosillo,Commercial,13,-1.9458579439457855
+Hermosillo,Commercial,14,-0.001
+Hermosillo,Commercial,15,-0.001
+Hermosillo,Commercial,16,-1.5246475493328484
+Hermosillo,Commercial,17,-0.12560086619988858
+Hermosillo,Commercial,18,-1.9642403997588698
+Hermosillo,Commercial,19,-1.266027348320791
+Hermosillo,Commercial,20,-2.7863724241301386
+Hermosillo,Commercial,21,-0.001
+Hermosillo,Commercial,22,-0.001
+Hermosillo,Commercial,23,-0.001
+Hermosillo,Commercial,24,-0.001
+Hermosillo,Commercial,25,-0.001
+Hermosillo,Commercial,26,-0.001
+Hermosillo,Commercial,27,-0.001
+Hermosillo,Commercial,28,-0.001
+Hermosillo,Commercial,29,-0.001
+Hermosillo,Commercial,30,-0.9855861570428559
+Hermosillo,Commercial,31,-0.001
+Hermosillo,Commercial,32,-0.001
+Hermosillo,Commercial,33,-0.001
+Hermosillo,Commercial,34,-0.001
+Hermosillo,Commercial,35,-0.001
+Hermosillo,Downtown,1,-0.30978605220970656
+Hermosillo,Downtown,2,-0.001
+Hermosillo,Downtown,3,-0.001
+Hermosillo,Downtown,4,-0.001
+Hermosillo,Downtown,5,-3.217249552610973
+Hermosillo,Downtown,6,-2.2789068228976315
+Hermosillo,Downtown,7,-0.001
+Hermosillo,Downtown,8,-0.3170884566042864
+Hermosillo,Downtown,9,-0.45987144433835214
+Hermosillo,Downtown,10,-0.001
+Hermosillo,Downtown,11,-0.001
+Hermosillo,Downtown,12,-0.001
+Hermosillo,Downtown,13,-0.7537677543942255
+Hermosillo,Downtown,14,-0.001
+Hermosillo,Downtown,15,-0.001
+Hermosillo,Downtown,16,-1.8296824908997225
+Hermosillo,Downtown,17,-0.001
+Hermosillo,Downtown,18,-3.2294816245444844
+Hermosillo,Downtown,19,-1.2658459690581552
+Hermosillo,Downtown,20,-0.05876592578820423
+Hermosillo,Downtown,21,-0.001
+Hermosillo,Downtown,22,-0.001
+Hermosillo,Downtown,23,-0.001
+Hermosillo,Downtown,24,-0.34817611693644457
+Hermosillo,Downtown,25,-0.001
+Hermosillo,Downtown,26,-0.001
+Hermosillo,Downtown,27,-0.9080451446013726
+Hermosillo,Downtown,28,-9.854011162443946
+Hermosillo,Downtown,29,-0.001
+Hermosillo,Downtown,30,-0.8230333344859457
+Hermosillo,Downtown,31,-0.001
+Hermosillo,Downtown,32,-0.07400936478819511
+Hermosillo,Downtown,33,-1.8560116824455304
+Hermosillo,Downtown,34,-0.6565675037977524
+Hermosillo,Downtown,35,-0.001
+Hermosillo,Residential,1,-0.35622051201699434
+Hermosillo,Residential,2,-1.735307997265124
+Hermosillo,Residential,3,-0.8122342265423549
+Hermosillo,Residential,6,-1.0547007094880432
+Hermosillo,Residential,7,-0.001
+Hermosillo,Residential,8,-0.24949366470519369
+Hermosillo,Residential,9,-0.001
+Hermosillo,Residential,10,-0.001
+Hermosillo,Residential,11,-0.33174032738633835
+Hermosillo,Residential,12,-0.001
+Hermosillo,Residential,13,-0.001
+Hermosillo,Residential,14,-0.001
+Hermosillo,Residential,15,-0.001
+Hermosillo,Residential,16,-0.001
+Hermosillo,Residential,17,-0.001
+Hermosillo,Residential,18,-0.001
+Hermosillo,Residential,19,-0.001
+Hermosillo,Residential,21,-0.7773015887457221
+Hermosillo,Residential,23,-0.001
+Hermosillo,Residential,24,-0.03223754765224581
+Hermosillo,Residential,25,-0.001
+Hermosillo,Residential,26,-0.001
+Hermosillo,Residential,27,-0.5340351930332301
+Hermosillo,Residential,28,-0.001
+Hermosillo,Residential,29,-0.001
+Hermosillo,Residential,30,-0.2477465756128371
+Hermosillo,Residential,31,-1.711366492412707
+Hermosillo,Residential,32,-2.7983606709337003
+Hermosillo,Residential,33,-0.001
+Hermosillo,Residential,34,-0.001
+La Paz,Downtown,1,-0.26274738059214164
+La Paz,Downtown,2,-0.001
+La Paz,Downtown,3,-0.18866942524431726
+La Paz,Downtown,5,-0.001
+La Paz,Downtown,6,-0.028887175198591963
+La Paz,Downtown,7,-0.001
+La Paz,Downtown,8,-0.2940744271272061
+La Paz,Downtown,9,-0.001
+La Paz,Downtown,10,-0.001
+La Paz,Downtown,11,-0.001
+La Paz,Downtown,12,-0.001
+La Paz,Downtown,13,-0.32709536873165507
+La Paz,Downtown,14,-0.3979784411550097
+La Paz,Downtown,15,-0.001
+La Paz,Downtown,16,-0.001
+La Paz,Downtown,17,-0.001
+La Paz,Downtown,18,-0.001
+La Paz,Downtown,19,-2.121270957881248
+La Paz,Downtown,20,-0.001
+La Paz,Downtown,21,-0.001
+La Paz,Downtown,23,-0.001
+La Paz,Downtown,24,-0.001
+La Paz,Downtown,25,-0.001
+La Paz,Downtown,26,-0.5357351473302969
+La Paz,Downtown,27,-0.001
+La Paz,Downtown,28,-0.001
+La Paz,Downtown,29,-0.001
+La Paz,Downtown,30,-2.2443143042693565
+La Paz,Downtown,31,-0.001
+La Paz,Downtown,32,-0.001
+La Paz,Downtown,33,-0.001
+La Paz,Downtown,34,-0.001
+Merida,Downtown,1,-0.38483659005636284
+Merida,Downtown,2,-2.095584578490468
+Merida,Downtown,3,-0.5753196400602432
+Merida,Downtown,4,-0.001
+Merida,Downtown,5,-0.001
+Merida,Downtown,6,-0.2377547506683338
+Merida,Downtown,7,-0.001
+Merida,Downtown,8,-0.5895171159946677
+Merida,Downtown,9,-0.716032402732872
+Merida,Downtown,10,-0.001
+Merida,Downtown,11,-0.001
+Merida,Downtown,12,-0.001
+Merida,Downtown,13,-0.001
+Merida,Downtown,14,-0.3109975390491345
+Merida,Downtown,15,-0.001
+Merida,Downtown,16,-1.091332486124767
+Merida,Downtown,17,-0.001
+Merida,Downtown,18,-0.5880663275534681
+Merida,Downtown,19,-0.001
+Merida,Downtown,20,-0.001
+Merida,Downtown,21,-0.001
+Merida,Downtown,22,-0.21464615959059713
+Merida,Downtown,23,-0.001
+Merida,Downtown,24,-0.001
+Merida,Downtown,25,-0.15072236632031258
+Merida,Downtown,26,-0.001
+Merida,Downtown,27,-0.02002516915021941
+Merida,Downtown,28,-0.001
+Merida,Downtown,29,-0.001
+Merida,Downtown,30,-0.001
+Merida,Downtown,31,-0.001
+Merida,Downtown,32,-0.001
+Merida,Downtown,33,-0.001
+Merida,Downtown,34,-0.001
+Merida,Downtown,35,-0.001
+Mexicali,Commercial,1,-0.001
+Mexicali,Commercial,2,-0.3979054332576863
+Mexicali,Commercial,3,-1.0258596360500098
+Mexicali,Commercial,4,-2.8487896949610283
+Mexicali,Commercial,5,-5.440453049817704
+Mexicali,Commercial,6,-2.066785247754912
+Mexicali,Commercial,7,-0.001
+Mexicali,Commercial,8,-0.2552626599242317
+Mexicali,Commercial,9,-0.44781822623384754
+Mexicali,Commercial,10,-0.001
+Mexicali,Commercial,11,-0.001
+Mexicali,Commercial,12,-0.001
+Mexicali,Commercial,13,-0.001
+Mexicali,Commercial,14,-3.148568906155785
+Mexicali,Commercial,15,-0.001
+Mexicali,Commercial,16,-0.001
+Mexicali,Commercial,17,-0.001
+Mexicali,Commercial,18,-0.3537157101884285
+Mexicali,Commercial,19,-1.4737268056396629
+Mexicali,Commercial,20,-0.001
+Mexicali,Commercial,21,-0.001
+Mexicali,Commercial,22,-0.001
+Mexicali,Commercial,23,-0.001
+Mexicali,Commercial,24,-0.001
+Mexicali,Commercial,25,-0.001
+Mexicali,Commercial,26,-0.001
+Mexicali,Commercial,27,-0.001
+Mexicali,Commercial,28,-0.001
+Mexicali,Commercial,29,-0.001
+Mexicali,Commercial,30,-0.001
+Mexicali,Commercial,31,-0.8589485280055776
+Mexicali,Commercial,32,-0.001
+Mexicali,Commercial,33,-0.001
+Mexicali,Commercial,34,-1.494613756768177
+Mexicali,Commercial,35,-0.001
+Mexicali,Downtown,1,-0.001
+Mexicali,Downtown,2,-0.5309664313799346
+Mexicali,Downtown,3,-0.001
+Mexicali,Downtown,6,-0.001
+Mexicali,Downtown,7,-0.16960321269268402
+Mexicali,Downtown,8,-0.001
+Mexicali,Downtown,9,-0.5310894045569976
+Mexicali,Downtown,10,-0.001
+Mexicali,Downtown,11,-0.001
+Mexicali,Downtown,12,-0.001
+Mexicali,Downtown,13,-0.001
+Mexicali,Downtown,14,-0.9876373444908351
+Mexicali,Downtown,15,-0.11632586536112921
+Mexicali,Downtown,16,-0.001
+Mexicali,Downtown,17,-1.1444906622885616
+Mexicali,Downtown,18,-2.050817653544403
+Mexicali,Downtown,19,-0.001
+Mexicali,Downtown,21,-0.6017637653886077
+Mexicali,Downtown,23,-0.001
+Mexicali,Downtown,24,-0.001
+Mexicali,Downtown,25,-0.001
+Mexicali,Downtown,26,-0.001
+Mexicali,Downtown,27,-0.269502026876374
+Mexicali,Downtown,28,-0.001
+Mexicali,Downtown,29,-0.001
+Mexicali,Downtown,30,-0.250073702327341
+Mexicali,Downtown,31,-0.9753403447701893
+Mexicali,Downtown,32,-0.2498234410582904
+Mexicali,Downtown,33,-0.03489052601101619
+Mexicali,Downtown,34,-0.001
+Monterrey,Airport,1,-0.26688421345427865
+Monterrey,Airport,2,-0.001
+Monterrey,Airport,3,-0.35575955523740277
+Monterrey,Airport,4,-0.001
+Monterrey,Airport,5,-0.001
+Monterrey,Airport,6,-1.3854451539695423
+Monterrey,Airport,7,-0.6707885838585015
+Monterrey,Airport,8,-0.001
+Monterrey,Airport,9,-0.001
+Monterrey,Airport,10,-0.001
+Monterrey,Airport,11,-0.001
+Monterrey,Airport,12,-3.429517501919981
+Monterrey,Airport,13,-0.001
+Monterrey,Airport,14,-0.001
+Monterrey,Airport,15,-0.5716756878173082
+Monterrey,Airport,16,-0.001
+Monterrey,Airport,17,-0.001
+Monterrey,Airport,18,-0.001
+Monterrey,Airport,19,-1.1722508113163563
+Monterrey,Airport,20,-0.001
+Monterrey,Airport,21,-0.001
+Monterrey,Airport,22,-0.001
+Monterrey,Airport,23,-0.001
+Monterrey,Airport,24,-0.001
+Monterrey,Airport,25,-0.001
+Monterrey,Airport,26,-0.3920967968429454
+Monterrey,Airport,27,-0.2162786811076836
+Monterrey,Airport,28,-0.001
+Monterrey,Airport,29,-0.001
+Monterrey,Airport,30,-0.2615691111844295
+Monterrey,Airport,31,-0.001
+Monterrey,Airport,32,-0.001
+Monterrey,Airport,33,-0.001
+Monterrey,Airport,34,-0.001
+Monterrey,Airport,35,-0.001
+Monterrey,Commercial,1,-0.001
+Monterrey,Commercial,2,-1.0289849929335997
+Monterrey,Commercial,3,-0.9942544384626351
+Monterrey,Commercial,4,-0.001
+Monterrey,Commercial,6,-0.489026798731536
+Monterrey,Commercial,7,-1.5869739456585887
+Monterrey,Commercial,8,-0.001
+Monterrey,Commercial,9,-0.001
+Monterrey,Commercial,10,-0.001
+Monterrey,Commercial,11,-1.6379622644906608
+Monterrey,Commercial,12,-0.4890115852260422
+Monterrey,Commercial,13,-0.001
+Monterrey,Commercial,14,-3.7993170706534825
+Monterrey,Commercial,15,-0.001
+Monterrey,Commercial,16,-0.5008533070497195
+Monterrey,Commercial,17,-1.1228798244337224
+Monterrey,Commercial,18,-1.06256068777193
+Monterrey,Commercial,19,-2.6438667318436906
+Monterrey,Commercial,20,-0.001
+Monterrey,Commercial,21,-0.001
+Monterrey,Commercial,23,-0.048547124112659754
+Monterrey,Commercial,24,-0.001
+Monterrey,Commercial,25,-1.150709351898731
+Monterrey,Commercial,26,-0.001
+Monterrey,Commercial,27,-0.11135196838549526
+Monterrey,Commercial,28,-0.001
+Monterrey,Commercial,29,-0.001
+Monterrey,Commercial,30,-0.36885869383761505
+Monterrey,Commercial,31,-3.2310635734339135
+Monterrey,Commercial,32,-0.001
+Monterrey,Commercial,33,-2.0507487223994936
+Monterrey,Commercial,34,-0.001
+Monterrey,Downtown,1,-0.9986452256363123
+Monterrey,Downtown,2,-1.7129248295592059
+Monterrey,Downtown,3,-0.001
+Monterrey,Downtown,4,-0.5883289866557699
+Monterrey,Downtown,5,-0.001
+Monterrey,Downtown,6,-0.9376521996320442
+Monterrey,Downtown,7,-0.499565235856791
+Monterrey,Downtown,8,-0.7243295688527871
+Monterrey,Downtown,9,-0.06852386646110659
+Monterrey,Downtown,10,-2.9464491165911246
+Monterrey,Downtown,11,-0.001
+Monterrey,Downtown,12,-1.4030531214147524
+Monterrey,Downtown,13,-2.132250132147572
+Monterrey,Downtown,14,-0.001
+Monterrey,Downtown,15,-0.001
+Monterrey,Downtown,16,-0.001
+Monterrey,Downtown,17,-0.3919165126997243
+Monterrey,Downtown,18,-0.13881491482943462
+Monterrey,Downtown,19,-0.001
+Monterrey,Downtown,20,-0.001
+Monterrey,Downtown,21,-0.3594953834919434
+Monterrey,Downtown,22,-0.001
+Monterrey,Downtown,23,-0.9037291809939388
+Monterrey,Downtown,24,-0.4493516832949635
+Monterrey,Downtown,25,-0.001
+Monterrey,Downtown,26,-0.001
+Monterrey,Downtown,27,-0.24081232441627629
+Monterrey,Downtown,28,-0.001
+Monterrey,Downtown,29,-0.001
+Monterrey,Downtown,30,-0.001
+Monterrey,Downtown,31,-0.001
+Monterrey,Downtown,32,-0.001
+Monterrey,Downtown,33,-0.001
+Monterrey,Downtown,34,-0.001
+Monterrey,Downtown,35,-1.1221729173762554
+Monterrey,Residential,1,-0.15786335993503908
+Monterrey,Residential,2,-0.9797049408780422
+Monterrey,Residential,3,-1.0281641691354928
+Monterrey,Residential,6,-1.0331850189228673
+Monterrey,Residential,7,-2.632756818812449
+Monterrey,Residential,8,-0.001
+Monterrey,Residential,9,-0.001
+Monterrey,Residential,10,-1.017428193629973
+Monterrey,Residential,11,-0.001
+Monterrey,Residential,12,-3.6865589089079025
+Monterrey,Residential,13,-0.001
+Monterrey,Residential,14,-0.001
+Monterrey,Residential,15,-0.001
+Monterrey,Residential,16,-0.001
+Monterrey,Residential,17,-0.5415226499952885
+Monterrey,Residential,18,-1.5452045579104374
+Monterrey,Residential,19,-0.001
+Monterrey,Residential,21,-0.001
+Monterrey,Residential,23,-0.001
+Monterrey,Residential,24,-0.001
+Monterrey,Residential,25,-0.001
+Monterrey,Residential,26,-0.001
+Monterrey,Residential,27,-0.20272437007488192
+Monterrey,Residential,28,-6.432094179329931
+Monterrey,Residential,29,-0.001
+Monterrey,Residential,30,-0.001
+Monterrey,Residential,31,-0.30338576300473347
+Monterrey,Residential,32,-3.3473190255390937
+Monterrey,Residential,33,-0.001
+Monterrey,Residential,34,-0.001
+Morelia,Downtown,1,-0.001
+Morelia,Downtown,2,-0.001
+Morelia,Downtown,3,-0.001
+Morelia,Downtown,4,-0.001
+Morelia,Downtown,5,-0.001
+Morelia,Downtown,6,-0.32041247902763514
+Morelia,Downtown,7,-0.001
+Morelia,Downtown,8,-0.001
+Morelia,Downtown,9,-1.0707507999981478
+Morelia,Downtown,10,-0.6166559945576768
+Morelia,Downtown,11,-0.001
+Morelia,Downtown,12,-0.001
+Morelia,Downtown,13,-1.9314142468791546
+Morelia,Downtown,14,-0.001
+Morelia,Downtown,15,-0.001
+Morelia,Downtown,16,-0.001
+Morelia,Downtown,17,-0.9113583609098764
+Morelia,Downtown,18,-2.3056776932864733
+Morelia,Downtown,19,-0.001
+Morelia,Downtown,20,-0.001
+Morelia,Downtown,21,-0.001
+Morelia,Downtown,22,-0.001
+Morelia,Downtown,23,-0.001
+Morelia,Downtown,24,-0.001
+Morelia,Downtown,25,-0.4595086340856177
+Morelia,Downtown,26,-0.001
+Morelia,Downtown,27,-0.001
+Morelia,Downtown,28,-0.001
+Morelia,Downtown,29,-0.001
+Morelia,Downtown,30,-0.7822858870413816
+Morelia,Downtown,31,-1.1290491109410898
+Morelia,Downtown,32,-0.001
+Morelia,Downtown,33,-0.001
+Morelia,Downtown,34,-0.001
+Morelia,Downtown,35,-0.001
+Oaxaca,Downtown,1,-0.001
+Oaxaca,Downtown,2,-0.706407890859076
+Oaxaca,Downtown,3,-1.7881566274791267
+Oaxaca,Downtown,6,-0.5668024218467367
+Oaxaca,Downtown,7,-0.7818649275053058
+Oaxaca,Downtown,8,-0.001
+Oaxaca,Downtown,9,-0.001
+Oaxaca,Downtown,10,-0.001
+Oaxaca,Downtown,11,-0.001
+Oaxaca,Downtown,12,-1.3460885184219542
+Oaxaca,Downtown,13,-0.001
+Oaxaca,Downtown,14,-0.001
+Oaxaca,Downtown,15,-2.214996102954588
+Oaxaca,Downtown,16,-0.7461167469368012
+Oaxaca,Downtown,17,-0.001
+Oaxaca,Downtown,18,-1.7613310036709748
+Oaxaca,Downtown,19,-0.001
+Oaxaca,Downtown,21,-0.001
+Oaxaca,Downtown,23,-0.001
+Oaxaca,Downtown,24,-0.24474384449769113
+Oaxaca,Downtown,25,-0.001
+Oaxaca,Downtown,27,-0.001
+Oaxaca,Downtown,28,-0.001
+Oaxaca,Downtown,29,-0.001
+Oaxaca,Downtown,30,-0.001
+Oaxaca,Downtown,31,-0.6271886646614083
+Oaxaca,Downtown,32,-0.001
+Oaxaca,Downtown,33,-0.001
+Oaxaca,Downtown,34,-0.6989980087332142
+Pachuca,Downtown,1,-0.001
+Pachuca,Downtown,2,-0.001
+Pachuca,Downtown,3,-0.001
+Pachuca,Downtown,4,-0.001
+Pachuca,Downtown,5,-0.001
+Pachuca,Downtown,6,-0.5852026134872432
+Pachuca,Downtown,7,-0.001
+Pachuca,Downtown,8,-0.15330954562486274
+Pachuca,Downtown,9,-0.001
+Pachuca,Downtown,10,-0.001
+Pachuca,Downtown,11,-0.001
+Pachuca,Downtown,12,-0.001
+Pachuca,Downtown,13,-1.9844026229590095
+Pachuca,Downtown,14,-0.10657204857991004
+Pachuca,Downtown,15,-0.001
+Pachuca,Downtown,16,-1.0675209557592902
+Pachuca,Downtown,17,-1.5953973555999408
+Pachuca,Downtown,18,-2.5958138189736566
+Pachuca,Downtown,19,-0.6323666456040575
+Pachuca,Downtown,20,-0.001
+Pachuca,Downtown,21,-0.16832835857099612
+Pachuca,Downtown,22,-0.001
+Pachuca,Downtown,23,-0.001
+Pachuca,Downtown,24,-0.21504386450893903
+Pachuca,Downtown,25,-0.2922385270143699
+Pachuca,Downtown,26,-0.001
+Pachuca,Downtown,27,-0.001
+Pachuca,Downtown,28,-0.001
+Pachuca,Downtown,29,-0.001
+Pachuca,Downtown,30,-0.5525579951586442
+Pachuca,Downtown,31,-0.8944868185565772
+Pachuca,Downtown,32,-0.001
+Pachuca,Downtown,33,-0.31294966013415015
+Pachuca,Downtown,34,-0.001
+Pachuca,Downtown,35,-0.001
+Puebla,Commercial,1,-0.5849659895306953
+Puebla,Commercial,2,-0.001
+Puebla,Commercial,3,-0.001
+Puebla,Commercial,4,-0.001
+Puebla,Commercial,5,-0.001
+Puebla,Commercial,6,-0.14549299133102245
+Puebla,Commercial,7,-0.010144636925056641
+Puebla,Commercial,8,-0.001
+Puebla,Commercial,9,-0.001
+Puebla,Commercial,10,-0.5901926115186159
+Puebla,Commercial,11,-0.001
+Puebla,Commercial,12,-0.001
+Puebla,Commercial,13,-3.015178749140312
+Puebla,Commercial,14,-0.001
+Puebla,Commercial,15,-0.001
+Puebla,Commercial,16,-1.058111499933546
+Puebla,Commercial,17,-0.001
+Puebla,Commercial,18,-0.001
+Puebla,Commercial,19,-0.001
+Puebla,Commercial,20,-6.7979927344300926
+Puebla,Commercial,21,-0.001
+Puebla,Commercial,22,-0.001
+Puebla,Commercial,23,-1.2521299507498898
+Puebla,Commercial,24,-0.5324306267148528
+Puebla,Commercial,25,-0.11176136032078476
+Puebla,Commercial,26,-0.001
+Puebla,Commercial,27,-0.47727021062516833
+Puebla,Commercial,28,-0.001
+Puebla,Commercial,29,-0.001
+Puebla,Commercial,30,-0.031211291930660308
+Puebla,Commercial,31,-0.001
+Puebla,Commercial,32,-0.001
+Puebla,Commercial,33,-0.001
+Puebla,Commercial,34,-0.001
+Puebla,Commercial,35,-0.05452777382688641
+Puebla,Downtown,1,-0.001
+Puebla,Downtown,2,-0.001
+Puebla,Downtown,3,-1.742099698145876
+Puebla,Downtown,6,-0.5818276112924352
+Puebla,Downtown,7,-0.5023301172392982
+Puebla,Downtown,8,-0.054548932713381695
+Puebla,Downtown,9,-1.0743886155614275
+Puebla,Downtown,10,-0.5248120540696313
+Puebla,Downtown,11,-0.001
+Puebla,Downtown,12,-0.001
+Puebla,Downtown,13,-0.3720567287116354
+Puebla,Downtown,14,-0.001
+Puebla,Downtown,15,-0.001
+Puebla,Downtown,16,-2.6046343297137957
+Puebla,Downtown,17,-0.33596284074341587
+Puebla,Downtown,18,-0.1897130129747751
+Puebla,Downtown,19,-0.001
+Puebla,Downtown,21,-0.001
+Puebla,Downtown,23,-0.001
+Puebla,Downtown,24,-0.9493521656922426
+Puebla,Downtown,25,-0.4374043091148589
+Puebla,Downtown,26,-0.4209970259069049
+Puebla,Downtown,27,-0.5383869995443576
+Puebla,Downtown,28,-0.9772446667930363
+Puebla,Downtown,29,-0.001
+Puebla,Downtown,30,-1.1102572763420664
+Puebla,Downtown,31,-0.9485328903183042
+Puebla,Downtown,32,-0.001
+Puebla,Downtown,33,-0.001
+Puebla,Downtown,34,-0.001
+Puebla,Residential,1,-1.5024881519896915
+Puebla,Residential,2,-0.09342008466624091
+Puebla,Residential,3,-1.2964987107542254
+Puebla,Residential,5,-0.001
+Puebla,Residential,6,-0.6296547493402951
+Puebla,Residential,7,-0.2662496258542981
+Puebla,Residential,8,-0.2794684158700153
+Puebla,Residential,10,-0.07355144144522223
+Puebla,Residential,11,-0.001
+Puebla,Residential,14,-0.001
+Puebla,Residential,15,-0.32831579215730755
+Puebla,Residential,16,-0.001
+Puebla,Residential,17,-0.001
+Puebla,Residential,18,-1.1394430840922678
+Puebla,Residential,23,-0.001
+Puebla,Residential,24,-0.001
+Puebla,Residential,25,-0.001
+Puebla,Residential,27,-0.001
+Puebla,Residential,29,-0.001
+Puebla,Residential,30,-0.001
+Puebla,Residential,31,-1.2332486743043534
+Puebla,Residential,32,-0.001
+Puebla,Residential,33,-0.001
+Puebla,Residential,34,-0.001
+Saltillo,Commercial,1,-0.001
+Saltillo,Commercial,2,-2.589262346276504
+Saltillo,Commercial,3,-0.001
+Saltillo,Commercial,4,-0.001
+Saltillo,Commercial,5,-0.5857084108082393
+Saltillo,Commercial,6,-0.001
+Saltillo,Commercial,7,-0.001
+Saltillo,Commercial,8,-0.6889158904597051
+Saltillo,Commercial,9,-0.001
+Saltillo,Commercial,10,-0.001
+Saltillo,Commercial,11,-0.001
+Saltillo,Commercial,12,-0.001
+Saltillo,Commercial,13,-3.6054680688363305
+Saltillo,Commercial,14,-2.4197203764110107
+Saltillo,Commercial,15,-0.001
+Saltillo,Commercial,16,-1.011989959587954
+Saltillo,Commercial,17,-0.6572077690967588
+Saltillo,Commercial,18,-0.001
+Saltillo,Commercial,19,-0.8570307979833581
+Saltillo,Commercial,20,-0.001
+Saltillo,Commercial,21,-0.5923814603248447
+Saltillo,Commercial,22,-0.001
+Saltillo,Commercial,23,-0.08019458435396747
+Saltillo,Commercial,24,-0.001
+Saltillo,Commercial,25,-0.7728087395491429
+Saltillo,Commercial,26,-0.3952840657793709
+Saltillo,Commercial,27,-0.001
+Saltillo,Commercial,28,-0.001
+Saltillo,Commercial,29,-0.001
+Saltillo,Commercial,30,-1.044561008965641
+Saltillo,Commercial,31,-0.001
+Saltillo,Commercial,32,-0.001
+Saltillo,Commercial,33,-0.001
+Saltillo,Commercial,34,-0.001
+Saltillo,Commercial,35,-0.001
+Saltillo,Downtown,1,-0.001
+Saltillo,Downtown,2,-0.001
+Saltillo,Downtown,3,-0.001
+Saltillo,Downtown,4,-0.2988150028187738
+Saltillo,Downtown,5,-0.001
+Saltillo,Downtown,6,-0.001
+Saltillo,Downtown,7,-1.033676904880376
+Saltillo,Downtown,8,-0.001
+Saltillo,Downtown,9,-0.001
+Saltillo,Downtown,10,-0.001
+Saltillo,Downtown,11,-0.001
+Saltillo,Downtown,12,-0.001
+Saltillo,Downtown,13,-0.436202594775243
+Saltillo,Downtown,14,-0.26074470388231935
+Saltillo,Downtown,15,-0.4249289239421039
+Saltillo,Downtown,16,-0.001
+Saltillo,Downtown,17,-0.001
+Saltillo,Downtown,18,-0.2618449205046725
+Saltillo,Downtown,19,-1.5370959870024246
+Saltillo,Downtown,20,-1.3476590553434948
+Saltillo,Downtown,21,-0.8023789895260979
+Saltillo,Downtown,22,-0.001
+Saltillo,Downtown,23,-1.711024741837505
+Saltillo,Downtown,24,-0.001
+Saltillo,Downtown,25,-0.001
+Saltillo,Downtown,26,-3.326139204129396
+Saltillo,Downtown,27,-0.4018430734274444
+Saltillo,Downtown,28,-0.001
+Saltillo,Downtown,29,-0.001
+Saltillo,Downtown,30,-0.41104965227030954
+Saltillo,Downtown,31,-0.001
+Saltillo,Downtown,32,-0.001
+Saltillo,Downtown,33,-0.001
+Saltillo,Downtown,34,-0.001
+Saltillo,Downtown,35,-0.001
+San Luis Potosi,Downtown,1,-0.3907691137947673
+San Luis Potosi,Downtown,2,-0.5559606462361131
+San Luis Potosi,Downtown,3,-0.36779079661023417
+San Luis Potosi,Downtown,4,-0.001
+San Luis Potosi,Downtown,5,-0.23992010638820874
+San Luis Potosi,Downtown,6,-2.2846901419105707
+San Luis Potosi,Downtown,7,-0.28432968179284707
+San Luis Potosi,Downtown,8,-0.4842653630662985
+San Luis Potosi,Downtown,9,-0.001
+San Luis Potosi,Downtown,10,-0.001
+San Luis Potosi,Downtown,11,-2.682419377493705
+San Luis Potosi,Downtown,12,-0.001
+San Luis Potosi,Downtown,13,-0.001
+San Luis Potosi,Downtown,14,-3.1026549942596313
+San Luis Potosi,Downtown,15,-0.001
+San Luis Potosi,Downtown,16,-0.001
+San Luis Potosi,Downtown,17,-0.001
+San Luis Potosi,Downtown,18,-1.1478874847334124
+San Luis Potosi,Downtown,19,-0.9121294737215405
+San Luis Potosi,Downtown,20,-0.001
+San Luis Potosi,Downtown,21,-0.0034321432409856255
+San Luis Potosi,Downtown,22,-0.7398809595040098
+San Luis Potosi,Downtown,23,-0.001
+San Luis Potosi,Downtown,24,-0.001
+San Luis Potosi,Downtown,25,-0.001
+San Luis Potosi,Downtown,26,-0.001
+San Luis Potosi,Downtown,27,-0.001
+San Luis Potosi,Downtown,28,-0.001
+San Luis Potosi,Downtown,29,-0.001
+San Luis Potosi,Downtown,30,-0.001
+San Luis Potosi,Downtown,31,-2.15363789698614
+San Luis Potosi,Downtown,32,-0.001
+San Luis Potosi,Downtown,33,-0.001
+San Luis Potosi,Downtown,34,-1.2299674390569986
+San Luis Potosi,Downtown,35,-0.001
+Santiago,Downtown,1,-0.46787614442011116
+Santiago,Downtown,2,-0.001
+Santiago,Downtown,3,-0.0064894065255904285
+Santiago,Downtown,6,-0.873981548916557
+Santiago,Downtown,7,-1.5533812755991718
+Santiago,Downtown,8,-0.14757417513714566
+Santiago,Downtown,9,-0.001
+Santiago,Downtown,10,-0.001
+Santiago,Downtown,11,-0.001
+Santiago,Downtown,12,-0.001
+Santiago,Downtown,13,-0.7651177139693608
+Santiago,Downtown,14,-3.5759090656790513
+Santiago,Downtown,15,-0.001
+Santiago,Downtown,16,-0.6410675467992933
+Santiago,Downtown,17,-0.6979999603293101
+Santiago,Downtown,18,-0.001
+Santiago,Downtown,19,-0.32752804177093886
+Santiago,Downtown,21,-0.001
+Santiago,Downtown,23,-0.001
+Santiago,Downtown,24,-0.001
+Santiago,Downtown,25,-0.001
+Santiago,Downtown,26,-0.001
+Santiago,Downtown,27,-0.29763606037189744
+Santiago,Downtown,28,-0.001
+Santiago,Downtown,29,-0.001
+Santiago,Downtown,30,-1.7529973849392413
+Santiago,Downtown,31,-0.001
+Santiago,Downtown,32,-3.4314939501683335
+Santiago,Downtown,33,-0.001
+Santiago,Downtown,34,-0.001
+Toluca,Commercial,1,-0.001
+Toluca,Commercial,2,-0.001
+Toluca,Commercial,3,-0.001
+Toluca,Commercial,4,-0.001
+Toluca,Commercial,5,-0.001
+Toluca,Commercial,6,-0.001
+Toluca,Commercial,7,-0.001
+Toluca,Commercial,8,-0.45868633578557017
+Toluca,Commercial,9,-0.001
+Toluca,Commercial,10,-0.13143394523775936
+Toluca,Commercial,11,-2.3903350744580267
+Toluca,Commercial,12,-0.001
+Toluca,Commercial,13,-0.001
+Toluca,Commercial,14,-0.001
+Toluca,Commercial,15,-0.001
+Toluca,Commercial,16,-0.001
+Toluca,Commercial,17,-0.001
+Toluca,Commercial,18,-0.8291221667915807
+Toluca,Commercial,19,-0.001
+Toluca,Commercial,20,-0.001
+Toluca,Commercial,21,-0.001
+Toluca,Commercial,22,-0.001
+Toluca,Commercial,23,-0.001
+Toluca,Commercial,24,-2.1340999382579495
+Toluca,Commercial,25,-0.001
+Toluca,Commercial,26,-0.001
+Toluca,Commercial,27,-0.001
+Toluca,Commercial,28,-0.3158929113395282
+Toluca,Commercial,29,-0.001
+Toluca,Commercial,30,-0.06494156816507368
+Toluca,Commercial,31,-2.0167526708756984
+Toluca,Commercial,32,-2.145461653290003
+Toluca,Commercial,33,-0.001
+Toluca,Commercial,34,-1.9993745350953338
+Toluca,Commercial,35,-0.001
+Toluca,Downtown,1,-0.001
+Toluca,Downtown,2,-0.001
+Toluca,Downtown,3,-1.8519836383384625
+Toluca,Downtown,6,-0.001
+Toluca,Downtown,7,-0.22072032601313085
+Toluca,Downtown,8,-0.001
+Toluca,Downtown,9,-0.001
+Toluca,Downtown,10,-0.34440069663836187
+Toluca,Downtown,11,-0.001
+Toluca,Downtown,12,-0.001
+Toluca,Downtown,13,-1.91669679998871
+Toluca,Downtown,14,-0.8585235259029781
+Toluca,Downtown,15,-0.24988819152776665
+Toluca,Downtown,16,-0.6691574426669498
+Toluca,Downtown,17,-0.001
+Toluca,Downtown,18,-0.001
+Toluca,Downtown,19,-0.001
+Toluca,Downtown,21,-0.6392803189561237
+Toluca,Downtown,23,-0.001
+Toluca,Downtown,24,-0.4373555749103348
+Toluca,Downtown,25,-0.001
+Toluca,Downtown,26,-0.001
+Toluca,Downtown,27,-0.5766613159190738
+Toluca,Downtown,28,-0.1021090561006388
+Toluca,Downtown,29,-0.001
+Toluca,Downtown,30,-0.36963978511898865
+Toluca,Downtown,31,-0.001
+Toluca,Downtown,32,-0.04963861315259223
+Toluca,Downtown,33,-0.001
+Toluca,Downtown,34,-0.001
+Tuxtla Gutierrez,Downtown,1,-0.001
+Tuxtla Gutierrez,Downtown,2,-0.001
+Tuxtla Gutierrez,Downtown,3,-1.1614134918022039
+Tuxtla Gutierrez,Downtown,5,-0.001
+Tuxtla Gutierrez,Downtown,6,-1.3795046305899068
+Tuxtla Gutierrez,Downtown,7,-0.1599539960066388
+Tuxtla Gutierrez,Downtown,8,-1.5967105010765341
+Tuxtla Gutierrez,Downtown,9,-0.001
+Tuxtla Gutierrez,Downtown,10,-0.22835384300231726
+Tuxtla Gutierrez,Downtown,11,-0.001
+Tuxtla Gutierrez,Downtown,12,-0.001
+Tuxtla Gutierrez,Downtown,13,-2.420250686408055
+Tuxtla Gutierrez,Downtown,14,-4.443894604435902
+Tuxtla Gutierrez,Downtown,15,-0.001
+Tuxtla Gutierrez,Downtown,16,-0.001
+Tuxtla Gutierrez,Downtown,17,-0.001
+Tuxtla Gutierrez,Downtown,18,-0.001
+Tuxtla Gutierrez,Downtown,19,-0.06149638193860464
+Tuxtla Gutierrez,Downtown,20,-0.001
+Tuxtla Gutierrez,Downtown,21,-0.021183154767319818
+Tuxtla Gutierrez,Downtown,23,-0.001
+Tuxtla Gutierrez,Downtown,24,-0.001
+Tuxtla Gutierrez,Downtown,25,-0.001
+Tuxtla Gutierrez,Downtown,26,-0.001
+Tuxtla Gutierrez,Downtown,27,-0.4316723987980844
+Tuxtla Gutierrez,Downtown,28,-0.001
+Tuxtla Gutierrez,Downtown,29,-0.033241242687357675
+Tuxtla Gutierrez,Downtown,30,-3.5770706843981106
+Tuxtla Gutierrez,Downtown,31,-1.166984091292802
+Tuxtla Gutierrez,Downtown,32,-0.001
+Tuxtla Gutierrez,Downtown,33,-0.001
+Tuxtla Gutierrez,Downtown,34,-0.001
+Tuxtla Gutierrez,Downtown,35,-0.001
+Villahermosa,Downtown,1,-0.001
+Villahermosa,Downtown,2,-0.001
+Villahermosa,Downtown,3,-1.225024571520005
+Villahermosa,Downtown,4,-0.001
+Villahermosa,Downtown,5,-0.001
+Villahermosa,Downtown,6,-1.0268439142359487
+Villahermosa,Downtown,7,-0.001
+Villahermosa,Downtown,8,-0.27385614498580657
+Villahermosa,Downtown,9,-0.001
+Villahermosa,Downtown,10,-0.001
+Villahermosa,Downtown,11,-0.001
+Villahermosa,Downtown,12,-0.256015165251296
+Villahermosa,Downtown,13,-1.1248240247459527
+Villahermosa,Downtown,14,-0.7277089478467653
+Villahermosa,Downtown,15,-0.001
+Villahermosa,Downtown,16,-0.001
+Villahermosa,Downtown,17,-3.141414465282583
+Villahermosa,Downtown,18,-0.001
+Villahermosa,Downtown,19,-0.001
+Villahermosa,Downtown,20,-0.001
+Villahermosa,Downtown,21,-0.001
+Villahermosa,Downtown,22,-0.001
+Villahermosa,Downtown,23,-0.001
+Villahermosa,Downtown,24,-0.001
+Villahermosa,Downtown,25,-0.001
+Villahermosa,Downtown,26,-0.001
+Villahermosa,Downtown,27,-1.2078850380770423
+Villahermosa,Downtown,28,-0.001
+Villahermosa,Downtown,29,-0.001
+Villahermosa,Downtown,30,-1.7061689199672747
+Villahermosa,Downtown,31,-0.1256056383124259
+Villahermosa,Downtown,32,-0.001
+Villahermosa,Downtown,33,-0.001
+Villahermosa,Downtown,34,-0.001
+Villahermosa,Downtown,35,-0.001
+Xalapa,Commercial,1,-0.001
+Xalapa,Commercial,2,-0.5292844069653626
+Xalapa,Commercial,3,-0.6100327359804545
+Xalapa,Commercial,6,-0.001
+Xalapa,Commercial,7,-0.7525160857473625
+Xalapa,Commercial,8,-1.2421070216281145
+Xalapa,Commercial,9,-0.001
+Xalapa,Commercial,10,-1.945431062722562
+Xalapa,Commercial,11,-0.13751901110753018
+Xalapa,Commercial,12,-0.001
+Xalapa,Commercial,13,-0.001
+Xalapa,Commercial,14,-0.001
+Xalapa,Commercial,15,-0.001
+Xalapa,Commercial,16,-0.001
+Xalapa,Commercial,17,-0.001
+Xalapa,Commercial,18,-1.1040536128812768
+Xalapa,Commercial,19,-1.590671401558407
+Xalapa,Commercial,21,-0.001
+Xalapa,Commercial,23,-0.001
+Xalapa,Commercial,24,-0.001
+Xalapa,Commercial,25,-0.47334799817481227
+Xalapa,Commercial,26,-0.001
+Xalapa,Commercial,27,-0.29092436990116555
+Xalapa,Commercial,28,-0.001
+Xalapa,Commercial,29,-0.001
+Xalapa,Commercial,30,-0.001
+Xalapa,Commercial,31,-0.001
+Xalapa,Commercial,32,-0.001
+Xalapa,Commercial,34,-0.4743635749295541
+Xalapa,Downtown,1,-0.2604712078705426
+Xalapa,Downtown,2,-0.10969180699303335
+Xalapa,Downtown,3,-0.10787446321279945
+Xalapa,Downtown,6,-0.48817624666113174
+Xalapa,Downtown,7,-0.001
+Xalapa,Downtown,8,-0.23801146894623865
+Xalapa,Downtown,9,-0.1718165247774287
+Xalapa,Downtown,10,-2.6515843896064415
+Xalapa,Downtown,11,-0.001
+Xalapa,Downtown,12,-0.3226524040449865
+Xalapa,Downtown,13,-1.435461007084746
+Xalapa,Downtown,14,-0.5679964717057435
+Xalapa,Downtown,15,-0.001
+Xalapa,Downtown,16,-1.028958892570127
+Xalapa,Downtown,17,-0.001
+Xalapa,Downtown,18,-0.021883856486686483
+Xalapa,Downtown,19,-1.4563208427245997
+Xalapa,Downtown,21,-2.218481961123902
+Xalapa,Downtown,23,-0.001
+Xalapa,Downtown,24,-0.001
+Xalapa,Downtown,25,-0.001
+Xalapa,Downtown,26,-0.001
+Xalapa,Downtown,27,-0.001
+Xalapa,Downtown,28,-8.822735505667602
+Xalapa,Downtown,29,-0.9675796067347254
+Xalapa,Downtown,30,-0.19821101629089705
+Xalapa,Downtown,31,-0.001
+Xalapa,Downtown,32,-2.3681553968077536
+Xalapa,Downtown,33,-3.2352493658049264
+Xalapa,Downtown,34,-1.88855058885292
+Zacatecas,Downtown,1,-0.7439331304810581
+Zacatecas,Downtown,2,-0.001
+Zacatecas,Downtown,3,-1.2503984282285932
+Zacatecas,Downtown,6,-0.001
+Zacatecas,Downtown,7,-0.4188409250851644
+Zacatecas,Downtown,8,-0.7533917442808007
+Zacatecas,Downtown,9,-1.9103294987148334
+Zacatecas,Downtown,10,-2.776128108662153
+Zacatecas,Downtown,11,-0.23596314860338757
+Zacatecas,Downtown,12,-0.001
+Zacatecas,Downtown,13,-0.010954750009788957
+Zacatecas,Downtown,14,-0.001
+Zacatecas,Downtown,15,-0.008565674034503229
+Zacatecas,Downtown,16,-0.001
+Zacatecas,Downtown,17,-0.49722920431326084
+Zacatecas,Downtown,18,-0.001
+Zacatecas,Downtown,19,-0.001
+Zacatecas,Downtown,21,-0.557982264116339
+Zacatecas,Downtown,23,-0.001
+Zacatecas,Downtown,24,-0.010258064431614493
+Zacatecas,Downtown,25,-0.001
+Zacatecas,Downtown,26,-0.001
+Zacatecas,Downtown,27,-0.001
+Zacatecas,Downtown,28,-0.001
+Zacatecas,Downtown,29,-0.001
+Zacatecas,Downtown,30,-0.0038063447060229377
+Zacatecas,Downtown,31,-0.33612156025913653
+Zacatecas,Downtown,32,-0.058444382462534736
+Zacatecas,Downtown,33,-0.001
+Zacatecas,Downtown,34,-0.001

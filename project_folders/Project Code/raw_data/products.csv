@@ -1,0 +1,246 @@
+Product_ID,Year,Quarter,Product_Name,Product_Category,Product_Cost,Product_Price
+1,2022,1,Action Figure,Toys,$9.99 ,$15.99 
+2,2022,1,Animal Figures,Toys,$9.99 ,$12.99 
+3,2022,1,Barrel O' Slime,Art & Crafts,$1.99 ,$3.99 
+4,2022,1,Chutes & Ladders,Games,$9.99 ,$12.99 
+5,2022,1,Classic Dominoes,Games,$7.99 ,$9.99 
+6,2022,1,Colorbuds,Electronics,$6.99 ,$14.99 
+7,2022,1,Dart Gun,Sports & Outdoors,$11.99 ,$15.99 
+8,2022,1,Deck Of Cards,Games,$3.99 ,$6.99 
+9,2022,1,Dino Egg,Toys,$9.99 ,$10.99 
+10,2022,1,Dinosaur Figures,Toys,$10.99 ,$14.99 
+11,2022,1,Etch A Sketch,Art & Crafts,$10.99 ,$20.99 
+12,2022,1,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2022,1,Gamer Headphones,Electronics,$14.99 ,$20.99 
+14,2022,1,Glass Marbles,Games,$5.99 ,$10.99 
+15,2022,1,Hot Wheels 5-Pack,Toys,$3.99 ,$5.49 
+16,2022,1,Jenga,Games,$2.99 ,$9.99 
+17,2022,1,Kids Makeup Kit,Art & Crafts,$13.99 ,$19.99 
+18,2022,1,Lego Bricks,Toys,$34.99 ,$38.99 
+19,2022,1,Magic Sand,Art & Crafts,$13.99 ,$15.99 
+20,2022,1,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$23.99 
+21,2022,1,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$9.99 
+22,2022,1,Monopoly,Games,$13.99 ,$18.99 
+23,2022,1,Mr. Potatohead,Toys,$4.99 ,$9.99 
+24,2022,1,Nerf Gun,Sports & Outdoors,$14.99 ,$18.99 
+25,2022,1,PlayDoh Can,Art & Crafts,$1.99 ,$2.99 
+26,2022,1,PlayDoh Playset,Art & Crafts,$20.99 ,$24.99 
+27,2022,1,PlayDoh Toolkit,Art & Crafts,$3.49 ,$4.49 
+28,2022,1,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2022,1,Plush Pony,Toys,$8.99 ,$19.49 
+30,2022,1,Rubik's Cube,Games,$16.99 ,$18.99 
+31,2022,1,Splash Balls,Sports & Outdoors,$7.99 ,$8.99 
+32,2022,1,Supersoaker Water Gun,Sports & Outdoors,$10.99 ,$13.99 
+33,2022,1,Teddy Bear,Toys,$10.99 ,$12.49 
+34,2022,1,Toy Robot,Electronics,$20.99 ,$25.99 
+35,2022,1,Uno Card Game,Games,$3.99 ,$7.99 
+1,2022,2,Action Figure,Toys,$9.99 ,$15.99 
+2,2022,2,Animal Figures,Toys,$9.99 ,$12.99 
+3,2022,2,Barrel O' Slime,Art & Crafts,$1.99 ,$3.99 
+4,2022,2,Chutes & Ladders,Games,$9.99 ,$12.99 
+5,2022,2,Classic Dominoes,Games,$7.99 ,$9.99 
+6,2022,2,Colorbuds,Electronics,$6.99 ,$14.99 
+7,2022,2,Dart Gun,Sports & Outdoors,$11.99 ,$15.99 
+8,2022,2,Deck Of Cards,Games,$3.99 ,$6.99 
+9,2022,2,Dino Egg,Toys,$9.99 ,$10.99 
+10,2022,2,Dinosaur Figures,Toys,$10.99 ,$14.99 
+11,2022,2,Etch A Sketch,Art & Crafts,$10.99 ,$20.99 
+12,2022,2,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2022,2,Gamer Headphones,Electronics,$14.99 ,$20.99 
+14,2022,2,Glass Marbles,Games,$5.99 ,$10.99 
+15,2022,2,Hot Wheels 5-Pack,Toys,$3.99 ,$5.99 
+16,2022,2,Jenga,Games,$2.99 ,$9.99 
+17,2022,2,Kids Makeup Kit,Art & Crafts,$13.99 ,$19.99 
+18,2022,2,Lego Bricks,Toys,$34.99 ,$38.99 
+19,2022,2,Magic Sand,Art & Crafts,$13.99 ,$15.99 
+20,2022,2,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$23.99 
+21,2022,2,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$9.99 
+22,2022,2,Monopoly,Games,$13.99 ,$18.99 
+23,2022,2,Mr. Potatohead,Toys,$4.99 ,$9.99 
+24,2022,2,Nerf Gun,Sports & Outdoors,$14.99 ,$18.99 
+25,2022,2,PlayDoh Can,Art & Crafts,$1.99 ,$2.99 
+26,2022,2,PlayDoh Playset,Art & Crafts,$20.99 ,$24.99 
+27,2022,2,PlayDoh Toolkit,Art & Crafts,$3.49 ,$4.49 
+28,2022,2,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2022,2,Plush Pony,Toys,$8.99 ,$19.49 
+30,2022,2,Rubik's Cube,Games,$16.99 ,$18.99 
+31,2022,2,Splash Balls,Sports & Outdoors,$7.99 ,$8.99 
+32,2022,2,Supersoaker Water Gun,Sports & Outdoors,$10.99 ,$13.99 
+33,2022,2,Teddy Bear,Toys,$10.99 ,$12.49 
+34,2022,2,Toy Robot,Electronics,$20.99 ,$25.99 
+35,2022,2,Uno Card Game,Games,$3.99 ,$7.99 
+1,2022,3,Action Figure,Toys,$10.99 ,$17.99 
+2,2022,3,Animal Figures,Toys,$10.49 ,$13.99 
+3,2022,3,Barrel O' Slime,Art & Crafts,$1.99 ,$3.99 
+4,2022,3,Chutes & Ladders,Games,$9.99 ,$12.99 
+5,2022,3,Classic Dominoes,Games,$7.99 ,$9.99 
+6,2022,3,Colorbuds,Electronics,$6.99 ,$14.99 
+7,2022,3,Dart Gun,Sports & Outdoors,$11.99 ,$15.99 
+8,2022,3,Deck Of Cards,Games,$3.99 ,$7.49 
+9,2022,3,Dino Egg,Toys,$9.99 ,$10.99 
+10,2022,3,Dinosaur Figures,Toys,$10.99 ,$14.99 
+11,2022,3,Etch A Sketch,Art & Crafts,$10.99 ,$20.99 
+12,2022,3,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2022,3,Gamer Headphones,Electronics,$14.99 ,$20.99 
+14,2022,3,Glass Marbles,Games,$5.99 ,$10.99 
+15,2022,3,Hot Wheels 5-Pack,Toys,$3.99 ,$5.99 
+16,2022,3,Jenga,Games,$2.99 ,$9.99 
+17,2022,3,Kids Makeup Kit,Art & Crafts,$13.99 ,$19.99 
+18,2022,3,Lego Bricks,Toys,$34.99 ,$39.49 
+19,2022,3,Magic Sand,Art & Crafts,$13.99 ,$15.99 
+20,2022,3,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$23.99 
+21,2022,3,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$9.99 
+22,2022,3,Monopoly,Games,$13.99 ,$18.99 
+23,2022,3,Mr. Potatohead,Toys,$4.99 ,$9.99 
+24,2022,3,Nerf Gun,Sports & Outdoors,$14.99 ,$19.49 
+25,2022,3,PlayDoh Can,Art & Crafts,$1.99 ,$2.99 
+26,2022,3,PlayDoh Playset,Art & Crafts,$20.99 ,$24.99 
+27,2022,3,PlayDoh Toolkit,Art & Crafts,$3.49 ,$4.49 
+28,2022,3,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2022,3,Plush Pony,Toys,$8.99 ,$19.49 
+30,2022,3,Rubik's Cube,Games,$16.99 ,$18.99 
+31,2022,3,Splash Balls,Sports & Outdoors,$7.99 ,$8.99 
+32,2022,3,Supersoaker Water Gun,Sports & Outdoors,$10.99 ,$13.99 
+33,2022,3,Teddy Bear,Toys,$10.99 ,$12.49 
+34,2022,3,Toy Robot,Electronics,$20.99 ,$25.99 
+35,2022,3,Uno Card Game,Games,$3.99 ,$7.99 
+1,2022,4,Action Figure,Toys,$10.99 ,$17.99 
+2,2022,4,Animal Figures,Toys,$10.49 ,$13.49 
+3,2022,4,Barrel O' Slime,Art & Crafts,$1.99 ,$3.99 
+4,2022,4,Chutes & Ladders,Games,$9.99 ,$13.49 
+5,2022,4,Classic Dominoes,Games,$7.99 ,$9.99 
+6,2022,4,Colorbuds,Electronics,$6.99 ,$14.99 
+7,2022,4,Dart Gun,Sports & Outdoors,$11.99 ,$15.99 
+8,2022,4,Deck Of Cards,Games,$3.99 ,$7.49 
+9,2022,4,Dino Egg,Toys,$9.99 ,$10.99 
+10,2022,4,Dinosaur Figures,Toys,$10.99 ,$14.99 
+11,2022,4,Etch A Sketch,Art & Crafts,$10.99 ,$20.99 
+12,2022,4,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2022,4,Gamer Headphones,Electronics,$14.99 ,$20.99 
+14,2022,4,Glass Marbles,Games,$5.99 ,$10.99 
+15,2022,4,Hot Wheels 5-Pack,Toys,$3.99 ,$5.99 
+16,2022,4,Jenga,Games,$2.99 ,$10.49 
+17,2022,4,Kids Makeup Kit,Art & Crafts,$13.99 ,$20.99 
+18,2022,4,Lego Bricks,Toys,$34.99 ,$39.49 
+19,2022,4,Magic Sand,Art & Crafts,$13.99 ,$15.99 
+20,2022,4,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$23.99 
+21,2022,4,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$9.99 
+22,2022,4,Monopoly,Games,$13.99 ,$18.99 
+23,2022,4,Mr. Potatohead,Toys,$4.99 ,$9.99 
+24,2022,4,Nerf Gun,Sports & Outdoors,$14.99 ,$18.99 
+25,2022,4,PlayDoh Can,Art & Crafts,$1.99 ,$2.99 
+26,2022,4,PlayDoh Playset,Art & Crafts,$20.99 ,$24.99 
+27,2022,4,PlayDoh Toolkit,Art & Crafts,$3.49 ,$4.49 
+28,2022,4,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2022,4,Plush Pony,Toys,$8.99 ,$19.49 
+30,2022,4,Rubik's Cube,Games,$16.99 ,$18.99 
+31,2022,4,Splash Balls,Sports & Outdoors,$7.99 ,$8.99 
+32,2022,4,Supersoaker Water Gun,Sports & Outdoors,$10.99 ,$13.99 
+33,2022,4,Teddy Bear,Toys,$10.99 ,$12.99 
+34,2022,4,Toy Robot,Electronics,$20.99 ,$25.99 
+35,2022,4,Uno Card Game,Games,$3.99 ,$7.99 
+1,2023,1,Action Figure,Toys,$10.99 ,$17.49 
+2,2023,1,Animal Figures,Toys,$10.49 ,$13.99 
+3,2023,1,Barrel O' Slime,Art & Crafts,$1.99 ,$4.49 
+4,2023,1,Chutes & Ladders,Games,$9.99 ,$13.49 
+5,2023,1,Classic Dominoes,Games,$7.99 ,$10.49 
+6,2023,1,Colorbuds,Electronics,$7.59 ,$15.99 
+7,2023,1,Dart Gun,Sports & Outdoors,$12.49 ,$17.49 
+8,2023,1,Deck Of Cards,Games,$4.29 ,$7.49 
+9,2023,1,Dino Egg,Toys,$9.99 ,$10.99 
+10,2023,1,Dinosaur Figures,Toys,$10.99 ,$15.49 
+11,2023,1,Etch A Sketch,Art & Crafts,$10.99 ,$21.99 
+12,2023,1,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2023,1,Gamer Headphones,Electronics,$14.99 ,$21.99 
+14,2023,1,Glass Marbles,Games,$5.99 ,$11.49 
+15,2023,1,Hot Wheels 5-Pack,Toys,$3.99 ,$6.49 
+16,2023,1,Jenga,Games,$3.99 ,$10.99 
+17,2023,1,Kids Makeup Kit,Art & Crafts,$13.99 ,$20.99 
+18,2023,1,Lego Bricks,Toys,$34.99 ,$39.49 
+19,2023,1,Magic Sand,Art & Crafts,$13.99 ,$16.49 
+20,2023,1,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$24.99 
+21,2023,1,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$11.99 
+22,2023,1,Monopoly,Games,$13.99 ,$19.99 
+23,2023,1,Mr. Potatohead,Toys,$4.99 ,$10.49 
+24,2023,1,Nerf Gun,Sports & Outdoors,$14.99 ,$19.99 
+25,2023,1,PlayDoh Can,Art & Crafts,$1.99 ,$3.19 
+26,2023,1,PlayDoh Playset,Art & Crafts,$20.99 ,$25.99 
+27,2023,1,PlayDoh Toolkit,Art & Crafts,$3.99 ,$4.99 
+28,2023,1,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2023,1,Plush Pony,Toys,$8.99 ,$19.99 
+30,2023,1,Rubik's Cube,Games,$17.29 ,$19.99 
+31,2023,1,Splash Balls,Sports & Outdoors,$7.99 ,$9.49 
+32,2023,1,Supersoaker Water Gun,Sports & Outdoors,$10.99 ,$13.99 
+33,2023,1,Teddy Bear,Toys,$10.99 ,$12.99 
+34,2023,1,Toy Robot,Electronics,$21.99 ,$27.49 
+35,2023,1,Uno Card Game,Games,$3.99 ,$8.49 
+1,2023,2,Action Figure,Toys,$10.99 ,$17.49 
+2,2023,2,Animal Figures,Toys,$10.49 ,$13.49 
+3,2023,2,Barrel O' Slime,Art & Crafts,$1.99 ,$4.99 
+4,2023,2,Chutes & Ladders,Games,$9.99 ,$13.49 
+5,2023,2,Classic Dominoes,Games,$7.99 ,$10.49 
+6,2023,2,Colorbuds,Electronics,$7.59 ,$16.49 
+7,2023,2,Dart Gun,Sports & Outdoors,$12.49 ,$17.49 
+8,2023,2,Deck Of Cards,Games,$4.29 ,$7.49 
+9,2023,2,Dino Egg,Toys,$9.99 ,$11.99 
+10,2023,2,Dinosaur Figures,Toys,$10.99 ,$15.49 
+11,2023,2,Etch A Sketch,Art & Crafts,$10.99 ,$21.99 
+12,2023,2,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2023,2,Gamer Headphones,Electronics,$14.99 ,$21.99 
+14,2023,2,Glass Marbles,Games,$5.99 ,$11.49 
+15,2023,2,Hot Wheels 5-Pack,Toys,$3.99 ,$6.49 
+16,2023,2,Jenga,Games,$3.99 ,$10.99 
+17,2023,2,Kids Makeup Kit,Art & Crafts,$14.49 ,$20.99 
+18,2023,2,Lego Bricks,Toys,$34.99 ,$39.99 
+19,2023,2,Magic Sand,Art & Crafts,$13.99 ,$16.49 
+20,2023,2,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$24.99 
+21,2023,2,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$11.99 
+22,2023,2,Monopoly,Games,$13.99 ,$19.99 
+23,2023,2,Mr. Potatohead,Toys,$4.99 ,$10.49 
+24,2023,2,Nerf Gun,Sports & Outdoors,$14.99 ,$19.99 
+25,2023,2,PlayDoh Can,Art & Crafts,$1.99 ,$3.19 
+26,2023,2,PlayDoh Playset,Art & Crafts,$20.99 ,$25.99 
+27,2023,2,PlayDoh Toolkit,Art & Crafts,$3.99 ,$4.99 
+28,2023,2,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2023,2,Plush Pony,Toys,$8.99 ,$19.99 
+30,2023,2,Rubik's Cube,Games,$17.29 ,$19.99 
+31,2023,2,Splash Balls,Sports & Outdoors,$7.99 ,$9.49 
+32,2023,2,Supersoaker Water Gun,Sports & Outdoors,$11.99 ,$14.99 
+33,2023,2,Teddy Bear,Toys,$10.99 ,$12.99 
+34,2023,2,Toy Robot,Electronics,$21.99 ,$27.49 
+35,2023,2,Uno Card Game,Games,$3.99 ,$8.49 
+1,2023,3,Action Figure,Toys,$10.99 ,$17.99 
+2,2023,3,Animal Figures,Toys,$10.49 ,$13.99 
+3,2023,3,Barrel O' Slime,Art & Crafts,$1.99 ,$4.99 
+4,2023,3,Chutes & Ladders,Games,$10.09 ,$13.49 
+5,2023,3,Classic Dominoes,Games,$7.99 ,$10.49 
+6,2023,3,Colorbuds,Electronics,$7.59 ,$16.49 
+7,2023,3,Dart Gun,Sports & Outdoors,$12.49 ,$17.49 
+8,2023,3,Deck Of Cards,Games,$4.29 ,$7.49 
+9,2023,3,Dino Egg,Toys,$9.99 ,$11.99 
+10,2023,3,Dinosaur Figures,Toys,$10.99 ,$15.49 
+11,2023,3,Etch A Sketch,Art & Crafts,$10.99 ,$21.99 
+12,2023,3,Foam Disk Launcher,Sports & Outdoors,$8.99 ,$11.99 
+13,2023,3,Gamer Headphones,Electronics,$14.99 ,$21.99 
+14,2023,3,Glass Marbles,Games,$5.99 ,$11.49 
+15,2023,3,Hot Wheels 5-Pack,Toys,$3.99 ,$6.49 
+16,2023,3,Jenga,Games,$3.99 ,$10.99 
+17,2023,3,Kids Makeup Kit,Art & Crafts,$14.49 ,$21.49 
+18,2023,3,Lego Bricks,Toys,$34.99 ,$39.99 
+19,2023,3,Magic Sand,Art & Crafts,$13.99 ,$16.49 
+20,2023,3,Mini Basketball Hoop,Sports & Outdoors,$8.99 ,$24.99 
+21,2023,3,Mini Ping Pong Set,Sports & Outdoors,$6.99 ,$11.99 
+22,2023,3,Monopoly,Games,$13.99 ,$19.99 
+23,2023,3,Mr. Potatohead,Toys,$4.99 ,$10.49 
+24,2023,3,Nerf Gun,Sports & Outdoors,$14.99 ,$19.99 
+25,2023,3,PlayDoh Can,Art & Crafts,$1.99 ,$3.19 
+26,2023,3,PlayDoh Playset,Art & Crafts,$20.99 ,$25.99 
+27,2023,3,PlayDoh Toolkit,Art & Crafts,$3.99 ,$4.99 
+28,2023,3,Playfoam,Art & Crafts,$3.99 ,$10.99 
+29,2023,3,Plush Pony,Toys,$8.99 ,$19.99 
+30,2023,3,Rubik's Cube,Games,$17.29 ,$19.99 
+31,2023,3,Splash Balls,Sports & Outdoors,$7.99 ,$9.49 
+32,2023,3,Supersoaker Water Gun,Sports & Outdoors,$11.99 ,$14.99 
+33,2023,3,Teddy Bear,Toys,$10.99 ,$12.99 
+34,2023,3,Toy Robot,Electronics,$21.99 ,$27.49 
+35,2023,3,Uno Card Game,Games,$3.99 ,$8.49 
