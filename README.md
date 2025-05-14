@@ -1,4 +1,4 @@
-# Data_Mining
+# Data_Mining_Project
 
 B565-virawat-savash-hagupta Final Data mining Project
 
